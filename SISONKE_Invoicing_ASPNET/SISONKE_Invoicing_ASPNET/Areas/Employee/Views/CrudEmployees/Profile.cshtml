@@ -1,0 +1,166 @@
+﻿@model SISONKE_Invoicing_ASPNET.Areas.SecurityServices.Models.UserProfileVM
+
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Areas/Employee/_EmployeeLayout.cshtml";
+}
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Profile</h1>
+
+    </div>
+
+    <section class="section profile">
+        <div class="row">
+            <div class="col-xl-4">
+
+                <div class="card">
+                    <div class="card-body profile-card pt-4 d-flex flex-column align-items-center">
+
+
+                        <h2>@TempData["FirstName"]  @TempData["LastName"]</h2>
+                        <h3>Employee</h3>
+                        <div class="social-links mt-2">
+                            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+                            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+                            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-xl-8">
+
+                <div class="card">
+                    <div class="card-body pt-3">
+                       
+                        <ul class="nav nav-tabs nav-tabs-bordered">
+
+                            <li class="nav-item">
+                                <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#profile-overview">Overview</button>
+                            </li>
+
+                            <li class="nav-item">
+                                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-edit">Edit Profile</button>
+                            </li>
+
+
+
+                        </ul>
+                        <div class="tab-content pt-2">
+
+                            <div class="tab-pane fade show active profile-overview" id="profile-overview">
+
+
+                                <h5 class="card-title">Profile Details</h5>
+
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-4 label ">Full Name</div>
+                                    <div class="col-lg-9 col-md-8">@TempData["FirstName"]  @TempData["LastName"]</div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-4 label">Company</div>
+                                    <div class="col-lg-9 col-md-8">SISONKE Invoicing</div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-4 label">Role</div>
+                                    <div class="col-lg-9 col-md-8">@TempData["UserRole"]</div>
+                                </div>
+
+
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-4 label">Address</div>
+                                    <div class="col-lg-9 col-md-8">@Html.DisplayFor(model => model.Address)</div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-4 label">Phone</div>
+                                    <div class="col-lg-9 col-md-8"> @Html.DisplayFor(model => model.PhoneNumber)</div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-4 label">Email</div>
+                                    <div class="col-lg-9 col-md-8"> @Html.DisplayFor(model => model.Email)</div>
+                                </div>
+
+                            </div>
+
+                            <div class="tab-pane fade profile-edit pt-3" id="profile-edit">
+
+                                <form asp-area="Employee" asp-controller="CrudEmployees" asp-action="Profile" method="post">
+
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                                    <div class="row mb-3">
+                                        <label asp-for="FirstName" class="col-md-4 col-lg-3 col-form-label">First Name</label>
+                                        <div class="col-md-8 col-lg-9">
+                                            <input type="text" class="form-control" id="FirstName" name="FirstName" asp-for="FirstName" placeholder="First Name" value="@Html.DisplayFor(model => model.FirstName)" />
+
+                                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row mb-3">
+                                        <label asp-for="LastName" class="col-md-4 col-lg-3 col-form-label">Last Name</label>
+                                        <div class="col-md-8 col-lg-9">
+                                            <input type="text" class="form-control" id="LastName" name="LastName" asp-for="LastName" placeholder="Last Name" value="@Html.DisplayFor(model => model.LastName)" />
+
+                                            <span asp-validation-for="LastName" class="text-danger"></span>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row mb-3">
+                                        <label asp-for="Email" class="col-md-4 col-lg-3 col-form-label">Email</label>
+                                        <div class="col-md-8 col-lg-9">
+                                            <input type="email" class="form-control" id="Email" name="Email" asp-for="Email" placeholder="Email Address" value="@Html.DisplayFor(model => model.Email)" />
+
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row mb-3">
+                                        <label asp-for="Address" class="col-md-4 col-lg-3 col-form-label">Address</label>
+                                        <div class="col-md-8 col-lg-9">
+                                            <input type="text" class="form-control" id="Address" name="Address" asp-for="Address" placeholder="Home Address" value="@Html.DisplayFor(model => model.Address)" />
+
+                                            <span asp-validation-for="Address" class="text-danger"></span>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row mb-3">
+                                        <label asp-for="PhoneNumber" class="col-md-4 col-lg-3 col-form-label">Phone Number</label>
+                                        <div class="col-md-8 col-lg-9">
+                                            <input type="text" class="form-control" id="PhoneNumber" name="PhoneNumber" asp-for="PhoneNumber" placeholder="Phone Number" value="@Html.DisplayFor(model => model.PhoneNumber)" />
+
+                                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row mb-3">
+
+                                        <input type="submit" value="Save" class="btn btn-primary" />
+
+                                    </div>
+
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+</main>

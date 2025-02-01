@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SISONKE_Invoicing_ASPNET.props" />
+</Project>

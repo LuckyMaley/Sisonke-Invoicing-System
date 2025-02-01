@@ -1,0 +1,57 @@
+﻿@model SISONKE_Invoicing_ASPNET.Areas.Customer.Models.PaymentVM
+
+@{
+    ViewData["Title"] = "MakePayment";
+    Layout = "~/Areas/Customer/_CustomerLayout.cshtml";
+}
+
+<main id="main" class="main">
+    <div class="row">
+        <div class="col-12">
+        <div class="col-xl-4">
+           
+            <div class="card">
+                    <div class="card-body pt-4 d-flex flex-column ">
+                        <p>Make Payment - Review and Click Pay</p>
+    <div class="col-md-4">
+        <form asp-area="Customer" asp-controller="CrudCustomers" asp-action="MakePayment" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="InvoiceId" class="control-label">Invoice Number</label>
+                <input asp-for="InvoiceId" class="form-control bg-dark-subtle" name="InvoiceId" value="@Html.DisplayFor(model => model.InvoiceId)" readonly />
+                <span asp-validation-for="InvoiceId" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="PaymentDate" class="control-label">Payment Date</label>
+                <input asp-for="PaymentDate" class="form-control bg-dark-subtle" name="PaymentDate" value="@Html.DisplayFor(model => model.PaymentDate)" readonly />
+                <span asp-validation-for="PaymentDate" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="PaymentMethod" class="control-label">Payment Method</label>
+                <input asp-for="PaymentMethod" class="form-control bg-dark-subtle" name="PaymentMethod" value="@Html.DisplayFor(model => model.PaymentMethod)" readonly />
+                <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="Amount" class="control-label">Amount</label>
+                <input asp-for="Amount" class="form-control bg-dark-subtle" name="Amount" value="@Html.DisplayFor(model => model.Amount)" readonly />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Make Payment" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    </div>
+    </div>
+    </div>
+</div>
+</div>
+<div>
+    <a href="~/Customer/CrudCustomer/CustomerPayments">Back to List</a>
+</div>
+</main>
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LLM_KC_NH_SN_Invoicing_ASPNET.props" />
+</Project>

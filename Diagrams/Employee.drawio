@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2024-06-11T12:37:13.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="N1n8B8_d4vxIrCbcl1AZ" version="24.5.2" type="device">
+  <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
+    <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ylPcNcEXOAvtPoZ6D2o4-75" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry width="830" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="ylPcNcEXOAvtPoZ6D2o4-73" value="" style="line;strokeWidth=1" parent="ylPcNcEXOAvtPoZ6D2o4-75" vertex="1">
+          <mxGeometry y="610" width="826" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_qmh5xn1ZLbpP_ssyI5W-31" value="Products" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="ylPcNcEXOAvtPoZ6D2o4-75">
+          <mxGeometry x="10" y="250" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylPcNcEXOAvtPoZ6D2o4-69" value="Profile" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="ylPcNcEXOAvtPoZ6D2o4-75" vertex="1">
+          <mxGeometry x="10" y="300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qmh5xn1ZLbpP_ssyI5W-32" value="2024 SISONKE Invoicing System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ylPcNcEXOAvtPoZ6D2o4-75">
+          <mxGeometry x="330" y="630" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylPcNcEXOAvtPoZ6D2o4-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="ylPcNcEXOAvtPoZ6D2o4-75" vertex="1">
+          <mxGeometry x="500" y="140" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_qmh5xn1ZLbpP_ssyI5W-37" value="LOG OUT" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="ylPcNcEXOAvtPoZ6D2o4-75">
+          <mxGeometry x="30" y="350" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_qmh5xn1ZLbpP_ssyI5W-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" vertex="1" parent="ylPcNcEXOAvtPoZ6D2o4-75">
+          <mxGeometry x="290" y="360" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="140" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Employee" style="text;spacingTop=-5;fontSize=18;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="70" y="30" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="line;strokeWidth=1" parent="1" vertex="1">
+          <mxGeometry x="20" y="60" width="780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="line;strokeWidth=1" parent="1" vertex="1">
+          <mxGeometry x="20" y="90" width="780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Home" style="text;spacingTop=-5;" parent="1" vertex="1">
+          <mxGeometry x="20" y="70.00000000000009" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Account Details" style="text;spacingTop=-5;" parent="1" vertex="1">
+          <mxGeometry x="710" y="70.00000000000013" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="15" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="&#xa;Logo" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ylPcNcEXOAvtPoZ6D2o4-66" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="10" y="160" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylPcNcEXOAvtPoZ6D2o4-67" value="Invoices" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="10" y="205" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylPcNcEXOAvtPoZ6D2o4-70" value="Dashboard" style="text;spacingTop=-5;fontSize=18;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="10" y="120" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,474 @@
+2024-06-11 10:32:57,093 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-11 21:27:11,830 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-11 21:28:24,375 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-11 21:36:21,082 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-11 21:41:54,884 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-11 21:46:16,622 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-11 21:54:36,783 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-11 22:00:31,815 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-11 22:52:09,104 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 09:13:55,428 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 10:24:01,236 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 10:26:16,803 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 10:29:05,967 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 10:38:30,956 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 13:09:47,075 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 13:15:27,127 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 13:26:02,345 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 13:32:35,098 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 13:36:40,822 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 13:50:04,411 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 13:52:56,408 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 13:56:40,040 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 13:56:44,461 [14] ERROR UserManagerController - System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7212))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:7212)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at SISONKE_Invoicing_ASPNET.Areas.SecurityServices.Controllers.UserManagerController.Login(LoginVM usrLogin)
+2024-06-12 13:58:51,129 [34] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 13:59:31,119 [23] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 14:20:26,703 [24] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 14:21:09,412 [22] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 14:22:49,721 [22] ERROR UserManagerController - System.AggregateException: One or more errors occurred. (A task was canceled.)
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.Task.GetExceptions(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at SISONKE_Invoicing_ASPNET.Areas.SecurityServices.Controllers.UserManagerController.Login(LoginVM usrLogin)
+   at lambda_method43(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAwaitedAsync()
+   at Microsoft.AspNetCore.Mvc.Controller.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.Invoke(HttpContext context)
+   at Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware.InvokeAsync(HttpContext context)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.TaskAwaiter.<>c.<OutputWaitEtwEvents>b__12_0(Action innerContinuation, Task innerTask)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.ContinuationWrapper.Invoke()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(Action action, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishContinuations()
+   at System.Threading.Tasks.Task`1.TrySetResult(TResult result)
+   at Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware.GetScriptTag(String requestId, Boolean isHttps, String hostUrl)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.TaskAwaiter.<>c.<OutputWaitEtwEvents>b__12_0(Action innerContinuation, Task innerTask)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.ContinuationWrapper.Invoke()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(Action action, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishContinuations()
+   at System.Threading.Tasks.Task`1.TrySetResult(TResult result)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1 task, TResult result)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult result)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.TaskAwaiter.<>c.<OutputWaitEtwEvents>b__12_0(Action innerContinuation, Task innerTask)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.ContinuationWrapper.Invoke()
+   at System.Threading.Tasks.AwaitTaskContinuation.System.Threading.IThreadPoolWorkItem.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+   at System.Threading.Thread.StartCallback()
+--- End of stack trace from previous location ---
+
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at SISONKE_Invoicing_ASPNET.Areas.SecurityServices.Controllers.UserManagerController.Login(LoginVM usrLogin)
+2024-06-12 14:24:32,895 [44] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 14:29:41,676 [52] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 14:32:50,520 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 14:33:27,945 [15] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 14:35:11,801 [15] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 14:40:56,244 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 14:41:27,775 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 15:52:36,270 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 15:54:03,199 [22] INFO UserManagerController - SecurityServices UserManagerController - Register
+2024-06-12 15:55:29,163 [14] INFO UserManagerController - SecurityServices UserManagerController - Register
+2024-06-12 15:56:07,899 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Llmhlongo
+2024-06-12 15:58:16,735 [35] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Llmhlongo
+2024-06-12 15:58:50,258 [6] INFO UserManagerController - SecurityServices UserManagerController - Register
+2024-06-12 15:59:04,004 [6] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Llmhlongo1
+2024-06-12 16:00:54,653 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 16:01:18,166 [21] INFO UserManagerController - SecurityServices UserManagerController - Register
+2024-06-12 16:01:29,100 [21] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Llmhlongo2
+2024-06-12 16:46:17,482 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 16:58:25,204 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 17:01:38,248 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 17:06:49,982 [15] INFO UserManagerController - SecurityServices UserManagerController - Register
+2024-06-12 17:06:50,224 [15] INFO UserManagerController - SecurityServices UserManagerController - Register Successful: user added: 
+2024-06-12 17:06:50,358 [15] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Llmhlongo4
+2024-06-12 17:06:50,402 [15] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Llmhlongo4
+2024-06-12 17:07:47,607 [30] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 17:07:47,655 [30] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 17:40:23,104 [20] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 17:40:24,615 [20] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 17:54:53,465 [58] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 17:54:53,562 [58] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 18:30:23,868 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 18:41:04,149 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 18:41:44,169 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:05:33,053 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:05:51,517 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 23:05:55,854 [7] ERROR UserManagerController - System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7212))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:7212)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at SISONKE_Invoicing_ASPNET.Areas.SecurityServices.Controllers.UserManagerController.Login(LoginVM usrLogin) in C:\Users\mmmm\Documents\VisualStudioWorkspace\GroupProject\SISONKE_Invoicing_ASPNET\SISONKE_Invoicing_ASPNET\Areas\SecurityServices\Controllers\UserManagerController.cs:line 102
+2024-06-12 23:06:17,295 [17] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 23:06:26,135 [17] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 23:07:05,517 [29] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:07:05,729 [29] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:10:24,242 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:10:30,683 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 23:10:31,098 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-12 23:10:53,837 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:10:53,872 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:10:54,850 [23] ERROR CrudCustomersController - Error deserializing CustomersInvoiceDetailsVM
+Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'SISONKE_Invoicing_ASPNET.Areas.Customer.Models.MyInvoicesResponse' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '$values', line 1, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadMetadataProperties(JsonReader reader, Type& objectType, JsonContract& contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue, Object& newValue, String& id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at SISONKE_Invoicing_ASPNET.Areas.Customer.Controllers.CrudCustomersController.Index() in C:\Users\mmmm\Documents\VisualStudioWorkspace\GroupProject\SISONKE_Invoicing_ASPNET\SISONKE_Invoicing_ASPNET\Areas\Customer\Controllers\CrudCustomersController.cs:line 144
+2024-06-12 23:11:24,278 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:11:30,906 [17] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:11:31,128 [17] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:13:32,971 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:13:38,725 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:13:38,957 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:15:48,058 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:15:55,282 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:15:55,537 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:21:58,341 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:22:04,699 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:22:05,064 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:24:00,572 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:24:06,914 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:24:07,159 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:26:34,758 [6] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:26:34,798 [6] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:27:12,025 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:27:12,176 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:27:56,336 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:27:56,419 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:29:22,407 [34] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:29:22,443 [34] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:30:54,987 [44] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:30:55,218 [44] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:31:41,422 [39] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:31:41,468 [39] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:37:13,531 [34] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:37:13,579 [34] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:37:47,839 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:37:54,287 [12] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:37:54,535 [12] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:45:22,926 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-12 23:45:31,185 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:45:31,426 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-12 23:49:57,021 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 00:14:43,797 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 00:19:38,217 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 00:24:45,638 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 00:35:01,405 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 00:36:14,978 [24] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 00:36:15,458 [24] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 00:37:16,917 [26] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 00:37:16,971 [26] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 00:38:36,457 [31] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 00:39:08,301 [31] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 00:39:45,117 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 00:40:05,043 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 00:40:05,534 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 00:41:04,384 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 00:41:04,486 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 00:43:38,411 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 09:48:16,569 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 11:48:44,726 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 11:49:03,211 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 11:49:07,569 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 11:49:09,675 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 11:49:09,675 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 11:49:37,199 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 11:49:37,246 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 11:56:22,313 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 11:56:39,199 [6] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 11:56:42,411 [6] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 12:03:47,981 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:03:53,920 [4] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 12:03:57,218 [4] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 12:07:44,486 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:07:50,921 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 12:07:51,206 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 12:11:21,430 [30] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-13 12:11:21,533 [30] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-13 12:11:34,268 [37] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:11:34,312 [37] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:29:58,897 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:30:09,154 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:30:13,884 [16] ERROR UserManagerController - System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7212))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:7212)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at SISONKE_Invoicing_ASPNET.Areas.SecurityServices.Controllers.UserManagerController.Login(LoginVM usrLogin) in C:\Users\mmmm\Documents\VisualStudioWorkspace\GroupProject\SISONKE_Invoicing_ASPNET\SISONKE_Invoicing_ASPNET\Areas\SecurityServices\Controllers\UserManagerController.cs:line 102
+2024-06-13 12:30:32,150 [22] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:30:36,104 [22] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:31:39,604 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:31:45,457 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:31:45,695 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:35:36,688 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:35:45,757 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:35:45,988 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:36:54,753 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:37:01,013 [15] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:37:01,240 [15] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:37:41,276 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:37:46,913 [13] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:37:47,161 [13] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:38:43,139 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:38:48,754 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:38:48,979 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:43:21,124 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:43:27,308 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:43:27,537 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:46:16,829 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:46:23,062 [9] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:46:23,360 [9] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:48:11,645 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 12:48:17,210 [15] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 12:48:17,538 [15] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 14:01:57,128 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 14:06:21,012 [30] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 14:06:21,540 [30] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 16:29:20,760 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 16:34:00,927 [44] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-13 16:34:05,497 [44] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-13 16:35:57,210 [58] INFO CrudCustomersController - AccountController: Profile Action
+2024-06-13 16:37:26,746 [64] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 16:37:26,843 [64] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 16:45:20,456 [66] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 16:45:22,453 [66] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 16:47:50,754 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 16:47:59,388 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 16:47:59,640 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 17:30:09,670 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 17:30:54,804 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 17:30:55,805 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 17:32:31,651 [29] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 17:32:31,685 [29] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 17:37:35,646 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 17:44:21,831 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 17:44:26,850 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 17:44:30,434 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 17:45:37,029 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 17:45:41,754 [18] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 17:45:41,985 [18] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 17:47:04,497 [35] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-13 17:47:04,540 [35] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-13 17:47:46,279 [21] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 17:47:46,341 [21] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 23:07:02,071 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 23:09:10,559 [28] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 23:09:14,811 [28] ERROR UserManagerController - System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7212))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:7212)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at SISONKE_Invoicing_ASPNET.Areas.SecurityServices.Controllers.UserManagerController.Login(LoginVM usrLogin) in C:\Users\mmmm\Documents\VisualStudioWorkspace\GroupProject\SISONKE_Invoicing_ASPNET\SISONKE_Invoicing_ASPNET\Areas\SecurityServices\Controllers\UserManagerController.cs:line 106
+2024-06-13 23:11:13,077 [36] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 23:11:19,481 [36] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 23:27:13,153 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 23:27:32,389 [18] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 23:27:36,367 [18] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: ZzimelaAdmin
+2024-06-13 23:27:50,033 [10] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:27:50,104 [10] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:35:27,369 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 23:35:33,747 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:35:33,971 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:37:13,439 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 23:37:44,848 [20] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:37:45,075 [20] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:53:36,909 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 23:54:07,124 [4] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:54:07,410 [4] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:54:51,448 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-13 23:54:58,477 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-13 23:54:58,690 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-14 00:00:47,228 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-14 00:00:53,263 [13] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-14 00:00:53,636 [13] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-14 00:02:14,723 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-14 00:02:20,959 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-14 00:02:25,302 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-14 00:04:18,467 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-14 00:04:24,188 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-14 00:04:24,493 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Jkhalid
+2024-06-14 00:13:13,012 [24] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 00:13:13,098 [24] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 00:34:36,934 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-14 00:34:42,552 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 00:34:42,840 [16] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 00:50:25,764 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-14 00:50:31,841 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 00:50:34,989 [8] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 00:54:02,010 [46] ERROR CrudCustomersController - Error in InvoiceHistory method
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:7212)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at SISONKE_Invoicing_ASPNET.Areas.Customer.Controllers.CrudCustomersController.MakePayment(Int32 id) in C:\Users\mmmm\Documents\VisualStudioWorkspace\GroupProject\SISONKE_Invoicing_ASPNET\SISONKE_Invoicing_ASPNET\Areas\Customer\Controllers\CrudCustomersController.cs:line 855
+2024-06-14 01:05:44,985 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-14 01:06:10,126 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 01:06:13,345 [19] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 01:22:40,795 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-14 01:22:50,079 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 01:22:50,528 [7] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 01:27:18,417 [32] ERROR CrudCustomersController - Error in InvoiceHistory method
+System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|45_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at SISONKE_Invoicing_ASPNET.Areas.Customer.Controllers.CrudCustomersController.MakePayment(Int32 id)
+2024-06-14 01:43:10,141 [1] INFO Program.main method - ASP.NET Core MVC Started!
+2024-06-14 01:43:26,272 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz
+2024-06-14 01:43:26,538 [14] INFO UserManagerController - AuthServices UserManagerController - Login - POST: Login page usrLogin.UserName: Efronz

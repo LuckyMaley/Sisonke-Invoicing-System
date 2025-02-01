@@ -1,0 +1,50 @@
+﻿@model SISONKE_Invoicing_ASPNET.Areas.Employee.Models.EmpInvoicesVM
+
+@{
+    ViewData["Title"] = "ViewInvoice";
+    Layout = "~/Areas/Employee/_EmployeeLayout.cshtml";
+}
+<main id="main" class="main">
+<div class="row">
+
+    <div class="col-lg-12">
+        <div class="row">
+<div class="card-body">
+    <h5 class="card-title">Invoice Details</h5>
+    <table class="table table-striped">
+        <thead>
+            <tr>                           
+                <th scope="col">Product</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">UnitPrice</th>
+                <th scope="col">Total Price</th>              
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.CustomersInvoiceItemsVM)
+            {
+                
+                    <tr>
+                        @* <td>@String.Format("{0:d}", item.InvoiceDate)</td>
+                        <td>@String.Format("{0:d}", item.DueDate)</td> *@
+                        <td>@Model.Products.FirstOrDefault(v => v.ProductId == item.ProductId).Name </td>
+                        <td>@item.Quantity</td>
+                        <td>@item.UnitPrice</td>
+                        <td>@item.TotalPrice</td>
+                        @* <td>@item.Status</td>
+                        <td><a href="~/Employee/CrudEmployees/ViewInvoice/@item.InvoiceId">View Details</a></td> *@
+                    </tr>
+                
+            }
+
+        </tbody>
+    </table>
+
+</div>
+
+                 
+</div>
+</div>
+</div>
+</main>

@@ -1,0 +1,86 @@
+﻿@model SISONKE_Invoicing_ASPNET.Areas.Employee.Models.EmployeeInvoiceProductsVM
+
+@{
+    ViewData["Title"] = "Invoices";
+    Layout = "~/Areas/Employee/_EmployeeLayout.cshtml";
+}
+
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Dashboard</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="~/Home/Index">Home</a></li>
+                <li class="breadcrumb-item active">Dashboard</li>
+            </ol>
+        </nav>
+    </div>
+
+    <section class="section dashboard">
+        <div class="row">
+
+            <div class="col-lg-12">
+                <div class="row">
+
+                    <div class="col-12">
+                        <div class="card recent-sales overflow-auto">
+
+
+                            <div class="card-body">
+                                <h5 class="card-title">Invoices</h5>
+
+
+
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">Invoice Date</th>
+                                            <th scope="col">Due Date</th>
+                                            <th scope="col">Product</th>
+                                            <th scope="col">Subtotal</th>
+                                            <th scope="col">Tax</th>
+                                            <th scope="col">Total Amount</th>
+                                            <th scope="col">Status</th>
+                                            <th scope="col">Actions</th>
+                                        </tr>
+                                    </thead>
+
+                                    <tbody>
+                                        @foreach (var item in Model.Invoices)
+                                        {
+                                            if (Model.InvoiceItems.Where(a => a.InvoiceId == @item.InvoiceId).Count() > 0)
+                                            {
+                                                <tr>
+                                                    <td>@String.Format("{0:d}", item.InvoiceDate)</td>
+                                                    <td>@String.Format("{0:d}", item.DueDate)</td>
+                                                    <td>@Model.Products.FirstOrDefault(v => v.ProductId == Model.InvoiceItems.FirstOrDefault(a => a.InvoiceId == @item.InvoiceId).ProductId).Name </td>
+                                                    <td>@item.Subtotal</td>
+                                                    <td>@item.Tax</td>
+                                                    <td>@item.TotalAmount</td>
+                                                    <td>@item.Status</td>
+                                                    <td><a href="~/Employee/CrudEmployees/ViewInvoice/@item.InvoiceId">View Details</a></td>
+                                                </tr>
+                                            }
+                                        }
+
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+

@@ -1,0 +1,173 @@
+﻿@model SISONKE_Invoicing_ASPNET.Areas.Customer.Models.InvoicePaymentsVM
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Customer/_CustomerLayout.cshtml";
+}
+
+
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Payments</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="~/Customer/CrudCustomers">Home</a></li>
+                <li class="breadcrumb-item active">Payments</li>
+            </ol>
+        </nav>
+    </div>
+
+    <section class="section dashboard">
+
+        <div class="row">
+            <div class="col-12">
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalDialogScrollable">
+
+                   View Pending Payments
+
+                </button>
+
+                <div class="modal fade" id="modalDialogScrollable" tabindex="-1" aria-hidden="true" style="display: none;">
+
+                    <div class="modal-dialog modal-dialog-scrollable modal-lg">
+
+                        <div class="modal-content">
+
+                            <div class="modal-header">
+
+                                <h5 class="modal-title">Pending</h5>
+
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+
+                            </div>
+
+                            <div class="modal-body">
+
+
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">Invoice Date</th>
+
+                                            <th scope="col">Due Date</th>
+                                            <th scope="col">Subtotal</th>
+                                            <th scope="col">Tax</th>
+                                            <th scope="col">Total Amount</th>
+                                            <th scope="col">Payment Status</th>
+                                            <th scope="col">Actions</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model.Invoices)
+                                        {
+                                            if (Model.InvoiceItems.Where(a => a.InvoiceId == @item.InvoiceId).Count() > 0)
+                                            {
+                                                <tr>
+                                                    <td>@String.Format("{0:d}", item.InvoiceDate)</td>
+                                                    <td>@String.Format("{0:d}", item.DueDate)</td>
+
+                                                    <td>@item.Subtotal</td>
+                                                    <td>@item.Tax</td>
+                                                    <td>@item.TotalAmount</td>
+                                                    <td>@item.Status</td>
+                                                         <td>
+                                                            <a href="~/Customer/CrudCustomers/MakePayment/@item.InvoiceId">
+                                                                Make Payment
+                                                            </a>
+                                                         </td>
+                                                </tr>
+                                            }
+                                        
+                                                    
+                                                
+                                        }
+                                        @if(Model.Invoices.Count == 0)
+                                        {
+                                            <tr>
+                                                <td colspan="7"> 
+                                                    <p style="text-align:center">
+                                                        No pending invoice payments    
+                                                    </p>
+                                                </td>
+
+                                            </tr>
+                                        }
+                                    </tbody>
+                                    </table>
+
+
+                            </div>
+
+                            <div class="modal-footer">
+
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <hr/>
+        <div class="row">
+
+
+
+
+            <div class="col-12">
+                <div class="card recent-sales overflow-auto">
+
+
+                    <div class="card-body">
+                        <h5 class="card-title">My Payments</h5>
+
+
+
+
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Payment Date</th>
+
+                                    <th scope="col">Product</th>
+                                    <th scope="col">Price</th>
+                                    <th scope="col">Description</th>
+                                    <th scope="col">Total Amount</th>
+                                    <th scope="col">Payment Method</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.Payments)
+                                {
+                                    <tr>
+                                        <td>@String.Format("{0:d}", item.PaymentDate)</td>
+
+                                        <td>@Model.Products.FirstOrDefault(v => v.ProductId == Model.InvoiceItems.FirstOrDefault(a => a.InvoiceId == @item.InvoiceId).ProductId).Name </td>
+                                        <td>@Model.Products.FirstOrDefault(v => v.ProductId == Model.InvoiceItems.FirstOrDefault(a => a.InvoiceId == @item.InvoiceId).ProductId).Price </td>
+                                        <td>@Model.Products.FirstOrDefault(v => v.ProductId == Model.InvoiceItems.FirstOrDefault(a => a.InvoiceId == @item.InvoiceId).ProductId).Description </td>
+                                        <td>@item.TotalAmount</td>
+                                        <td>@item.PaymentMethod</td>
+
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+    </section>
+
+</main>
+
+

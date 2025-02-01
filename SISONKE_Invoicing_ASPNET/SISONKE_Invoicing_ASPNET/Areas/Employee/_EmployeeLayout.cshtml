@@ -1,0 +1,162 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <title>@ViewBag.Title</title>
+    <link href="https://fonts.gstatic.com" rel="preconnect" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
+    <link href="~/lib/bootstrap-custom/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+    <link href="~/lib/boxicons/css/boxicons.min.css" rel="stylesheet" />
+    <link href="~/lib/quill/quill.snow.css" rel="stylesheet" />
+    <link href="~/lib/quill/quill.bubble.css" rel="stylesheet" />
+    <link href="~/lib/remixicon/remixicon.css" rel="stylesheet" />
+    <link href="~/lib/simple-datatables/style.css" rel="stylesheet" />
+
+    <link href="~/css/employee-css/employeeSite.css" rel="stylesheet">
+</head>
+<body>
+
+    <header id="header" class="header fixed-top d-flex align-items-center">
+
+        <div class="d-flex align-items-center justify-content-between">
+            <a href="~/Employee/CrudEmployees/Index" class="logo d-flex align-items-center">
+                <img src="~/images/inv.png" alt="">
+                <span class="d-none d-lg-block">EMPLOYEE</span>
+            </a>
+            <i class="bi bi-list toggle-sidebar-btn"></i>
+        </div>
+
+        <nav class="header-nav ms-auto">
+            <ul class="d-flex align-items-center">
+
+                <li class="nav-item dropdown pe-3">
+                    @if (TempData["FirstName"]?.ToString() != null)
+                    {
+                        TempData.Keep();
+                        <a class="nav-link nav-profile d-flex align-items-center pe-0" href="#" data-bs-toggle="dropdown">
+                            <img src="~/images/profile-img.jpg" alt="Profile" class="rounded-circle">
+                            <span class="d-none d-md-block dropdown-toggle ps-2">@TempData["FirstName"] @TempData["LastName"]</span>
+                        </a>
+
+                        <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
+                            <li class="dropdown-header">
+                                <h6>@TempData["FirstName"] @TempData["LastName"]</h6>
+                                <span>@TempData["UserRole"]</span>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+
+                            <li>
+                                <a class="dropdown-item d-flex align-items-center" href="~/Employee/CrudEmployees/Profile">
+                                    <i class="bi bi-person"></i>
+                                    <span>My Profile</span>
+                                </a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+
+                            <li>
+                                <a class="dropdown-item d-flex align-items-center" href="~/SecurityServices/UserManager/Logout">
+                                    <i class="bi bi-box-arrow-right"></i>
+                                    <span>Sign Out</span>
+                                </a>
+                            </li>
+
+                        </ul>
+                        TempData.Keep();
+                    }
+                </li>
+
+            </ul>
+        </nav>
+
+    </header>
+
+
+    <div>
+        <aside id="sidebar" class="sidebar">
+
+            <ul class="sidebar-nav" id="sidebar-nav">
+
+                <li class="nav-item">
+                    <a class="nav-link " href="~/Employee/CrudEmployees/Index">
+                        <i class="bi bi-grid"></i>
+                        <span>Dashboard</span>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
+                        <i class="bi bi-menu-button-wide"></i><span>Invoices</span><i class="bi bi-chevron-down ms-auto"></i>
+                    </a>
+                    <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                        <li>
+                            <a href="~/Employee/CrudEmployees/Invoices">
+                                <i class="bi bi-circle"></i><span>Invoices</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="~/Employee/CrudEmployees/CrtInvoice">
+                                <i class="bi bi-circle"></i><span> Create Invoices</span>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link collapsed" data-bs-target="#tables-nav" data-bs-toggle="collapse" href="#">
+                        <i class="bi bi-layout-text-window-reverse"></i><span>Products</span><i class="bi bi-chevron-down ms-auto"></i>
+                    </a>
+                    <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                        <li>
+                            <a href="~/Employee/CrudEmployees/Products">
+                                <i class="bi bi-circle"></i><span>View Products</span>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link collapsed" href="~/Employee/CrudEmployees/Profile">
+                        <i class="bi bi-person"></i>
+                        <span>Profile</span>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link collapsed" href="~/SecurityServices/UserManager/Logout">
+                        <i class="bi bi-box-arrow-in-right"></i>
+                        <span>Log Out</span>
+                    </a>
+                </li>
+
+            </ul>
+
+        </aside>
+
+        @RenderBody()
+    </div>
+
+    <footer id="footer" class="footer">
+        <div class="copyright">
+            @DateTime.Now.Year &copy; Copyright <strong><span>SISONKE Invoicing</span></strong>. All Rights Reserved
+        </div>
+    </footer>
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <script src="~/lib/apexcharts/apexcharts.min.js"></script>
+    <script src="~/lib/bootstrap-custom/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/chart.js/chart.umd.js"></script>
+    <script src="~/lib/echarts/echarts.min.js"></script>
+    <script src="~/lib/quill/quill.js"></script>
+    <script src="~/lib/simple-datatables/simple-datatables.js"></script>
+    <script src="~/lib/tinymce/tinymce.min.js"></script>
+
+    <script src="~/js/main.js"></script>
+</body>
+</html>

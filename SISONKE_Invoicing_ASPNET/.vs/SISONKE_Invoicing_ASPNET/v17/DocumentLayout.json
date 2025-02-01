@@ -1,0 +1,1045 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\views\\usermanager\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\views\\usermanager\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\administrator\\views\\crudadmins\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\administrator\\views\\crudadmins\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\controllers\\usermanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\controllers\\usermanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\models\\employeeinvoicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\models\\employeeinvoicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\models\\employeeinvoiceproductsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\models\\employeeinvoiceproductsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\models\\empinvoicesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\models\\empinvoicesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\views\\crudemployees\\crtinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\views\\crudemployees\\crtinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\controllers\\crudemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\controllers\\crudemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\administrator\\models\\admininvoiceproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\administrator\\models\\admininvoiceproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\models\\paymentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\models\\paymentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\models\\mypayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\models\\mypayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\models\\myinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\models\\myinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\models\\invoiceproductsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\models\\invoiceproductsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\models\\invoicepaymentsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\models\\invoicepaymentsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\models\\custinvoicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\models\\custinvoicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\models\\customersinvoiceitemsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\models\\customersinvoiceitemsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\customerpayments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\customerpayments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\controllers\\crudcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\controllers\\crudcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\makepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\makepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\customerinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\customerinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\customer\\views\\crudcustomers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\views\\crudemployees\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\views\\crudemployees\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\views\\crudemployees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\views\\crudemployees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\views\\crudemployees\\invoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\views\\crudemployees\\invoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\administrator\\controllers\\crudadminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\administrator\\controllers\\crudadminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972A2EB-6D3A-4597-9CC2-7695F8D62399}|ASPMVC.xUnitTests\\ASPMVC.xUnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\aspmvc.xunittests\\crudadminscontrollerurltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5972A2EB-6D3A-4597-9CC2-7695F8D62399}|ASPMVC.xUnitTests\\ASPMVC.xUnitTests.csproj|solutionrelative:aspmvc.xunittests\\crudadminscontrollerurltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972A2EB-6D3A-4597-9CC2-7695F8D62399}|ASPMVC.xUnitTests\\ASPMVC.xUnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\aspmvc.xunittests\\crudcustomerscontrollerurltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5972A2EB-6D3A-4597-9CC2-7695F8D62399}|ASPMVC.xUnitTests\\ASPMVC.xUnitTests.csproj|solutionrelative:aspmvc.xunittests\\crudcustomerscontrollerurltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972A2EB-6D3A-4597-9CC2-7695F8D62399}|ASPMVC.xUnitTests\\ASPMVC.xUnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\aspmvc.xunittests\\crudemployeescontrollerurltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5972A2EB-6D3A-4597-9CC2-7695F8D62399}|ASPMVC.xUnitTests\\ASPMVC.xUnitTests.csproj|solutionrelative:aspmvc.xunittests\\crudemployeescontrollerurltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\administrator\\views\\crudadmins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\administrator\\views\\crudadmins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\administrator\\_administratorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\administrator\\_administratorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\employee\\_employeelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\employee\\_employeelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\js\\jquery.singlepagenav.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\js\\jquery.singlepagenav.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\_securityserviceslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\_securityserviceslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\views\\usermanager\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\views\\usermanager\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\models\\userregisteredvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\models\\userregisteredvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\models\\userprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\models\\userprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\models\\useraccountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\models\\useraccountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\models\\updateuserprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\models\\updateuserprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\models\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\models\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\areas\\securityservices\\models\\currentuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\areas\\securityservices\\models\\currentuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\css\\employee-css\\employeesite.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\css\\employee-css\\employeesite.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\css\\admin-css\\adminsite.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\css\\admin-css\\adminsite.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\css\\customer-css\\customersite.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\css\\customer-css\\customersite.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\wwwroot\\css\\flex-slider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\wwwroot\\css\\flex-slider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\sisonke_invoicing_aspnet\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D01050C9-BB48-443A-A5EF-8CB9DA9358FB}|SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET.csproj|solutionrelative:sisonke_invoicing_aspnet\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972A2EB-6D3A-4597-9CC2-7695F8D62399}|ASPMVC.xUnitTests\\ASPMVC.xUnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_aspnet\\aspmvc.xunittests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5972A2EB-6D3A-4597-9CC2-7695F8D62399}|ASPMVC.xUnitTests\\ASPMVC.xUnitTests.csproj|solutionrelative:aspmvc.xunittests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\HttpClientExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\ClientSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Views\\CrudAdmins\\Profile.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Views\\CrudAdmins\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Views\\CrudAdmins\\Profile.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Views\\CrudAdmins\\Profile.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T20:02:03.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeInvoiceProductsVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmployeeInvoiceProductsVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmployeeInvoiceProductsVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmployeeInvoiceProductsVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmployeeInvoiceProductsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:34:10.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeInvoiceVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmployeeInvoiceVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmployeeInvoiceVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmployeeInvoiceVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmployeeInvoiceVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:02:40.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Controllers\\UserManagerController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Controllers\\UserManagerController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Controllers\\UserManagerController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Controllers\\UserManagerController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswFMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:18:03.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrudEmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Controllers\\CrudEmployeesController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Controllers\\CrudEmployeesController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Controllers\\CrudEmployeesController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Controllers\\CrudEmployeesController.cs",
+              "ViewState": "AQIAAJsBAAAAAAAAAAAowKcBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:48:44.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Views\\UserManager\\Login.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Views\\UserManager\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Views\\UserManager\\Login.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Views\\UserManager\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T10:43:39.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpInvoicesVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmpInvoicesVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmpInvoicesVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmpInvoicesVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\EmpInvoicesVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:46:21.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Program.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Program.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:58:10.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrtInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\CrtInvoice.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\CrtInvoice.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\CrtInvoice.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\CrtInvoice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T00:05:20.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminInvoiceProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Models\\AdminInvoiceProductVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Models\\AdminInvoiceProductVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Models\\AdminInvoiceProductVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Models\\AdminInvoiceProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:17:19.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\PaymentVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\PaymentVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\PaymentVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\PaymentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:29:15.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyPayments.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\MyPayments.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\MyPayments.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\MyPayments.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\MyPayments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:22:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyInvoices.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\MyInvoices.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\MyInvoices.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\MyInvoices.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\MyInvoices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:16:35.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceProductsVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\InvoiceProductsVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\InvoiceProductsVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\InvoiceProductsVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\InvoiceProductsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:16:15.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvoicePaymentsVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\InvoicePaymentsVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\InvoicePaymentsVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\InvoicePaymentsVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\InvoicePaymentsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:22:53.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "custInvoiceVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\custInvoiceVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\custInvoiceVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\custInvoiceVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Models\\custInvoiceVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:26:49.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomersInvoiceItemsVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\CustomersInvoiceItemsVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\CustomersInvoiceItemsVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\CustomersInvoiceItemsVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Models\\CustomersInvoiceItemsVM.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIAxwCMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:33:30.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerPayments.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\CustomerPayments.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\CustomerPayments.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\CustomerPayments.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\CustomerPayments.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGcAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T14:24:09.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CrudCustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Controllers\\CrudCustomersController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Controllers\\CrudCustomersController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Controllers\\CrudCustomersController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Controllers\\CrudCustomersController.cs",
+              "ViewState": "AQIAABkEAAAAAAAAAAAnwCgEAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:18:53.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_CustomerLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\_CustomerLayout.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\_CustomerLayout.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\_CustomerLayout.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\_CustomerLayout.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAG8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T07:52:34.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\Profile.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\Profile.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\Profile.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T14:27:26.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MakePayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\MakePayment.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\MakePayment.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\MakePayment.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\MakePayment.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T22:32:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerInvoices.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\CustomerInvoices.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\CustomerInvoices.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\CustomerInvoices.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\CustomerInvoices.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T22:08:24.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\Index.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Customer\\Views\\CrudCustomers\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:21:02.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\ViewInvoice.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\ViewInvoice.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\ViewInvoice.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\ViewInvoice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T21:39:50.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\Index.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\Index.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:49:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Invoices.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\Invoices.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\Invoices.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\Invoices.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\Views\\CrudEmployees\\Invoices.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T10:30:46.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CrudEmployeesControllerURLTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\ASPMVC.xUnitTests\\CrudEmployeesControllerURLTests.cs",
+              "RelativeDocumentMoniker": "ASPMVC.xUnitTests\\CrudEmployeesControllerURLTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\ASPMVC.xUnitTests\\CrudEmployeesControllerURLTests.cs",
+              "RelativeToolTip": "ASPMVC.xUnitTests\\CrudEmployeesControllerURLTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswEIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:45:12.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CrudAdminsControllerURLTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\ASPMVC.xUnitTests\\CrudAdminsControllerURLTests.cs",
+              "RelativeDocumentMoniker": "ASPMVC.xUnitTests\\CrudAdminsControllerURLTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\ASPMVC.xUnitTests\\CrudAdminsControllerURLTests.cs",
+              "RelativeToolTip": "ASPMVC.xUnitTests\\CrudAdminsControllerURLTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:44:38.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CrudAdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Controllers\\CrudAdminsController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Controllers\\CrudAdminsController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Controllers\\CrudAdminsController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Controllers\\CrudAdminsController.cs",
+              "ViewState": "AQIAALMCAAAAAAAAAAAIwNQCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:45:51.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CrudCustomersControllerURLTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\ASPMVC.xUnitTests\\CrudCustomersControllerURLTests.cs",
+              "RelativeDocumentMoniker": "ASPMVC.xUnitTests\\CrudCustomersControllerURLTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\ASPMVC.xUnitTests\\CrudCustomersControllerURLTests.cs",
+              "RelativeToolTip": "ASPMVC.xUnitTests\\CrudCustomersControllerURLTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:44:01.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Views\\CrudAdmins\\Index.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Views\\CrudAdmins\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Views\\CrudAdmins\\Index.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\Views\\CrudAdmins\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:46:51.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_AdministratorLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\_AdministratorLayout.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\_AdministratorLayout.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\_AdministratorLayout.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Administrator\\_AdministratorLayout.cshtml",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAQwK4AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:40:42.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_EmployeeLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\_EmployeeLayout.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\_EmployeeLayout.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\Employee\\_EmployeeLayout.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\Employee\\_EmployeeLayout.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAIoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:44:37.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_SecurityServicesLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\_SecurityServicesLayout.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\_SecurityServicesLayout.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\_SecurityServicesLayout.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\_SecurityServicesLayout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:51:24.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAIwFAAAAAAAAAAAwwI8FAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-11T19:19:02.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T19:31:40.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T19:30:58.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T22:30:35.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "jquery.singlePageNav.min.js",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\js\\jquery.singlePageNav.min.js",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\js\\jquery.singlePageNav.min.js",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\js\\jquery.singlePageNav.min.js",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\js\\jquery.singlePageNav.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T19:43:16.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAwLoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T19:53:06.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Views\\UserManager\\Register.cshtml",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Views\\UserManager\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Views\\UserManager\\Register.cshtml",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Views\\UserManager\\Register.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T12:59:32.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserProfileVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserProfileVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserProfileVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserProfileVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserProfileVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:24:22.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserAccountVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserAccountVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserAccountVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserAccountVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserAccountVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:23:54.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-06-12T11:26:14.303Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserRegisteredVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserRegisteredVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserRegisteredVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserRegisteredVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UserRegisteredVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:24:50.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateUserProfileVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UpdateUserProfileVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UpdateUserProfileVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UpdateUserProfileVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\UpdateUserProfileVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:23:25.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegistrationVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\RegistrationVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\RegistrationVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\RegistrationVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\RegistrationVM.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA+wCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:22:54.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\LoginVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\LoginVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:22:15.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CurrentUserVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\CurrentUserVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\CurrentUserVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\CurrentUserVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Areas\\SecurityServices\\Models\\CurrentUserVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:21:46.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "employeeSite.css",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\employee-css\\employeeSite.css",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\employee-css\\employeeSite.css",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\employee-css\\employeeSite.css",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\employee-css\\employeeSite.css",
+              "ViewState": "AQIAAKoEAAAAAAAAAAAqwMkEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T08:02:14.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "customerSite.css",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\customer-css\\customerSite.css",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\customer-css\\customerSite.css",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\customer-css\\customerSite.css",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\customer-css\\customerSite.css",
+              "ViewState": "AQIAAKoEAAAAAAAAAAAqwMkEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T07:56:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "adminSite.css",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\admin-css\\adminSite.css",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\admin-css\\adminSite.css",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\admin-css\\adminSite.css",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\admin-css\\adminSite.css",
+              "ViewState": "AQIAAKoEAAAAAAAAAAAqwMkEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T07:55:41.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-12T07:45:01.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-11T19:28:05.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "flex-slider.css",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\flex-slider.css",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\flex-slider.css",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\wwwroot\\css\\flex-slider.css",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\wwwroot\\css\\flex-slider.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-11T19:23:07.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\log4net.config",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_ASPNET\\log4net.config",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\SISONKE_Invoicing_ASPNET\\log4net.config",
+              "RelativeToolTip": "SISONKE_Invoicing_ASPNET\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-11T08:25:44.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-10T19:37:17.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Program.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Program.cs",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:14:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "HttpClientExtension.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\HttpClientExtension.cs",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\HttpClientExtension.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\HttpClientExtension.cs",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\HttpClientExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:21:53.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ClientSettings.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\ClientSettings.cs",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\ClientSettings.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\ClientSettings.cs",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\Services\\ClientSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:21:06.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\log4net.config",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\log4net.config",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\log4net.config",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-10T19:18:02.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\appsettings.json",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\appsettings.json",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_ASPNET\\LLM_KC_NH_SN_Invoicing_ASPNET\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T19:11:38.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\ASPMVC.xUnitTests\\Usings.cs",
+              "RelativeDocumentMoniker": "ASPMVC.xUnitTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_ASPNET\\ASPMVC.xUnitTests\\Usings.cs",
+              "RelativeToolTip": "ASPMVC.xUnitTests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:15:47.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

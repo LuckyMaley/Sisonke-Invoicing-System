@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SISONKE_Invoicing_ASPNET
+build_property.RootNamespace = SISONKE_Invoicing_ASPNET
+build_property.ProjectDir = C:\Users\mmmm\Documents\VisualStudioWorkspace\GroupProject\SISONKE_Invoicing_ASPNET\SISONKE_Invoicing_ASPNET\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mmmm\Documents\VisualStudioWorkspace\GroupProject\SISONKE_Invoicing_ASPNET\SISONKE_Invoicing_ASPNET
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Administrator/Views/CrudAdmins/Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xDcnVkQWRtaW5zXEN1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Administrator/Views/CrudAdmins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xDcnVkQWRtaW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Administrator/Views/CrudAdmins/Invoices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xDcnVkQWRtaW5zXEludm9pY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Administrator/Views/CrudAdmins/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xDcnVkQWRtaW5zXFByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Administrator/Views/CrudAdmins/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xDcnVkQWRtaW5zXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Administrator/_AdministratorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxfQWRtaW5pc3RyYXRvckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Customer/Views/CrudCustomers/CustomerInvoices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3J1ZEN1c3RvbWVyc1xDdXN0b21lckludm9pY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Customer/Views/CrudCustomers/CustomerPayments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3J1ZEN1c3RvbWVyc1xDdXN0b21lclBheW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Customer/Views/CrudCustomers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3J1ZEN1c3RvbWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Customer/Views/CrudCustomers/MakePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3J1ZEN1c3RvbWVyc1xNYWtlUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Customer/Views/CrudCustomers/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3J1ZEN1c3RvbWVyc1xQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Customer/_CustomerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcX0N1c3RvbWVyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Employee/Views/CrudEmployees/CrtInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcQ3J1ZEVtcGxveWVlc1xDcnRJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Employee/Views/CrudEmployees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcQ3J1ZEVtcGxveWVlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Employee/Views/CrudEmployees/Invoices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcQ3J1ZEVtcGxveWVlc1xJbnZvaWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Employee/Views/CrudEmployees/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcQ3J1ZEVtcGxveWVlc1xQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Employee/Views/CrudEmployees/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcQ3J1ZEVtcGxveWVlc1xQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Employee/Views/CrudEmployees/ViewInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcQ3J1ZEVtcGxveWVlc1xWaWV3SW52b2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/Employee/_EmployeeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcX0VtcGxveWVlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/SecurityServices/Views/UserManager/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VjdXJpdHlTZXJ2aWNlc1xWaWV3c1xVc2VyTWFuYWdlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/SecurityServices/Views/UserManager/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VjdXJpdHlTZXJ2aWNlc1xWaWV3c1xVc2VyTWFuYWdlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Areas/SecurityServices/_SecurityServicesLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VjdXJpdHlTZXJ2aWNlc1xfU2VjdXJpdHlTZXJ2aWNlc0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mmmm/Documents/VisualStudioWorkspace/GroupProject/SISONKE_Invoicing_ASPNET/SISONKE_Invoicing_ASPNET/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mrvuyn43p1
