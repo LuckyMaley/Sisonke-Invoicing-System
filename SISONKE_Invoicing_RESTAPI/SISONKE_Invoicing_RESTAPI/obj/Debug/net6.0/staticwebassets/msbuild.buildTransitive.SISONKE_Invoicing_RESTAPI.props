@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SISONKE_Invoicing_RESTAPI.props" />
+</Project>

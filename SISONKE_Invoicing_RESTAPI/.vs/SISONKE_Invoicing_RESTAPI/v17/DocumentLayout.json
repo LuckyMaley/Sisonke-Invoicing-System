@@ -1,0 +1,757 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\viewmodels\\invoicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\viewmodels\\invoicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\models\\efuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\models\\efuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\viewmodels\\paymentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\viewmodels\\paymentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\authmodels\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\authmodels\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\customersinvoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\customersinvoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\restapi.nunittests\\invoicescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|solutionrelative:restapi.nunittests\\invoicescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\repository\\customersinvoiceitemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\repository\\customersinvoiceitemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\customersinvoiceitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\customersinvoiceitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\viewmodels\\customersinvoiceitemsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\viewmodels\\customersinvoiceitemsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\repository\\customersinvoicesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\repository\\customersinvoicesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\repository\\customersinvoicepaymentsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\repository\\customersinvoicepaymentsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\viewmodels\\invoicerepovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\viewmodels\\invoicerepovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\restapi.nunittests\\paymentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|solutionrelative:restapi.nunittests\\paymentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\restapi.nunittests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|solutionrelative:restapi.nunittests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\restapi.nunittests\\customersinvoicesrepotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|solutionrelative:restapi.nunittests\\customersinvoicesrepotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\restapi.nunittests\\inmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A276D45-75C2-4A86-BA7A-40F1153B4C4F}|RESTAPI.NunitTests\\RESTAPI.NunitTests.csproj|solutionrelative:restapi.nunittests\\inmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\designpatterns\\successresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\designpatterns\\successresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\designpatterns\\errorresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\designpatterns\\errorresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\designpatterns\\notfoundresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\designpatterns\\notfoundresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\designpatterns\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\designpatterns\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\designpatterns\\adminrolecheckstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\designpatterns\\adminrolecheckstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\designpatterns\\irolecheckstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\designpatterns\\irolecheckstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\models\\sisonke_invoicing_system_efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\models\\sisonke_invoicing_system_efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\customerspaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\customerspaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\controllers\\invoiceitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\controllers\\invoiceitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\designpatterns\\logmanagersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\designpatterns\\logmanagersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\designpatterns\\employeerolecheckstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\designpatterns\\employeerolecheckstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Migrations\\20240612170700_initialIDENTITYDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SISONKE_Invoicing_RESTAPI\\Migrations\\20240612170700_initialIDENTITYDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\viewmodels\\discountsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\viewmodels\\discountsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\viewmodels\\notevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\viewmodels\\notevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Services\\LocalLogHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\groupproject\\sisonke_invoicing_restapi\\sisonke_invoicing_restapi\\migrations\\20240612175053_initialauthdbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C510A8-EABB-4D3C-A08D-8A8EDD8C0F0B}|SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI.csproj|solutionrelative:sisonke_invoicing_restapi\\migrations\\20240612175053_initialauthdbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\InvoiceVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\ViewModels\\InvoiceVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\InvoiceVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\ViewModels\\InvoiceVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:56:50.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfUser.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Models\\EfUser.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Models\\EfUser.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Models\\EfUser.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Models\\EfUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:56:39.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Models\\Product.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:43:59.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\InvoicesController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\InvoicesController.cs",
+              "ViewState": "AQIAALcBAAAAAAAAAAAvwNMBAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:44:05.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Program.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA6wCMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:16:23.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersInvoicesController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersInvoicesController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersInvoicesController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersInvoicesController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersInvoicesController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:22:09.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAHwBAAAAAAAAAAAnwIwBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:53:10.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationContext.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\AuthModels\\AuthenticationContext.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\AuthModels\\AuthenticationContext.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\AuthModels\\AuthenticationContext.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\AuthModels\\AuthenticationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:19:59.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\PaymentVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\ViewModels\\PaymentVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\PaymentVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\ViewModels\\PaymentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:40:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoicesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\InvoicesControllerTests.cs",
+              "RelativeDocumentMoniker": "RESTAPI.NunitTests\\InvoicesControllerTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\InvoicesControllerTests.cs",
+              "RelativeToolTip": "RESTAPI.NunitTests\\InvoicesControllerTests.cs",
+              "ViewState": "AQIAALEDAAAAAAAAAAD4v7oDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:00:02.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomersInvoicesRepoTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\CustomersInvoicesRepoTests.cs",
+              "RelativeDocumentMoniker": "RESTAPI.NunitTests\\CustomersInvoicesRepoTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\CustomersInvoicesRepoTests.cs",
+              "RelativeToolTip": "RESTAPI.NunitTests\\CustomersInvoicesRepoTests.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAwwCQBAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:30:59.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomersInvoiceItemsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoiceItemsRepo.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoiceItemsRepo.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoiceItemsRepo.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoiceItemsRepo.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAAAL4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:01:38.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersInvoiceItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersInvoiceItemsController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersInvoiceItemsController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersInvoiceItemsController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersInvoiceItemsController.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAuwMcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:25:02.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersInvoiceItemsVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\CustomersInvoiceItemsVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\ViewModels\\CustomersInvoiceItemsVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\CustomersInvoiceItemsVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\ViewModels\\CustomersInvoiceItemsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:07:35.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomersInvoicePaymentsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoicePaymentsRepo.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoicePaymentsRepo.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoicePaymentsRepo.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoicePaymentsRepo.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAIAwwMsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:29:52.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomersInvoicesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoicesRepo.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoicesRepo.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoicesRepo.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Repository\\CustomersInvoicesRepo.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAD4v0AAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:46:15.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InMemoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\InMemoryContext.cs",
+              "RelativeDocumentMoniker": "RESTAPI.NunitTests\\InMemoryContext.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\InMemoryContext.cs",
+              "RelativeToolTip": "RESTAPI.NunitTests\\InMemoryContext.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAgwEAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:06:32.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\UserProfileController.cs",
+              "ViewState": "AQIAAJ4BAAAAAAAAAAAQwKkBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:55:00.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvoiceRepoVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\InvoiceRepoVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\ViewModels\\InvoiceRepoVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\InvoiceRepoVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\ViewModels\\InvoiceRepoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:56:54.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\PaymentsControllerTests.cs",
+              "RelativeDocumentMoniker": "RESTAPI.NunitTests\\PaymentsControllerTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\PaymentsControllerTests.cs",
+              "RelativeToolTip": "RESTAPI.NunitTests\\PaymentsControllerTests.cs",
+              "ViewState": "AQIAAM4EAAAAAAAAAAAcwMQEAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:52:03.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "RESTAPI.NunitTests\\ProductControllerTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\RESTAPI.NunitTests\\ProductControllerTests.cs",
+              "RelativeToolTip": "RESTAPI.NunitTests\\ProductControllerTests.cs",
+              "ViewState": "AQIAAMgDAAAAAAAAAAAAAMwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:52:16.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotFoundResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\NotFoundResponseFactory.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\NotFoundResponseFactory.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\NotFoundResponseFactory.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\NotFoundResponseFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:51:27.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuccessResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\SuccessResponseFactory.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\SuccessResponseFactory.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\SuccessResponseFactory.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\SuccessResponseFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:30:55.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\ResponseFactory.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\ResponseFactory.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\ResponseFactory.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\ResponseFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:29:11.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\ErrorResponseFactory.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\ErrorResponseFactory.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\ErrorResponseFactory.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\ErrorResponseFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:50:37.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminRoleCheckStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\AdminRoleCheckStrategy.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\AdminRoleCheckStrategy.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\AdminRoleCheckStrategy.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\AdminRoleCheckStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:56:16.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRoleCheckStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\IRoleCheckStrategy.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\IRoleCheckStrategy.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\IRoleCheckStrategy.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\IRoleCheckStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:55:16.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomersPaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersPaymentsController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersPaymentsController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersPaymentsController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\CustomersPaymentsController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAQwCEAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:54:30.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SISONKE_Invoicing_System_EFDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wBkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:36:52.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DiscountsController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\DiscountsController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\DiscountsController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\DiscountsController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\DiscountsController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAD4v6sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:55:41.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationUserController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\ApplicationUserController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\ApplicationUserController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\ApplicationUserController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\ApplicationUserController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAYwJMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:01:18.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB8AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:52:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:12:22.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InvoiceItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\InvoiceItemsController.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Controllers\\InvoiceItemsController.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Controllers\\InvoiceItemsController.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Controllers\\InvoiceItemsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB4AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:59:34.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LogManagerSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\LogManagerSingleton.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\LogManagerSingleton.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\LogManagerSingleton.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\LogManagerSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:22:35.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeRoleCheckStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\EmployeeRoleCheckStrategy.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\EmployeeRoleCheckStrategy.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\DesignPatterns\\EmployeeRoleCheckStrategy.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\DesignPatterns\\EmployeeRoleCheckStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:57:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240612175053_initialAuthDBCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Migrations\\20240612175053_initialAuthDBCreate.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Migrations\\20240612175053_initialAuthDBCreate.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Migrations\\20240612175053_initialAuthDBCreate.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Migrations\\20240612175053_initialAuthDBCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:50:53.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240612170700_initialIDENTITYDB.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Migrations\\20240612170700_initialIDENTITYDB.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\Migrations\\20240612170700_initialIDENTITYDB.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\Migrations\\20240612170700_initialIDENTITYDB.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\Migrations\\20240612170700_initialIDENTITYDB.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:07:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NoteVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\NoteVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\ViewModels\\NoteVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\NoteVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\ViewModels\\NoteVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:13:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DiscountsVM.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\DiscountsVM.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\ViewModels\\DiscountsVM.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\ViewModels\\DiscountsVM.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\ViewModels\\DiscountsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:56:57.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\log4net.config",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\log4net.config",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\log4net.config",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-11T08:21:05.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SISONKE_Invoicing_RESTAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\SISONKE_Invoicing_RESTAPI\\SISONKE_Invoicing_RESTAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SISONKE_Invoicing_RESTAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:17:53.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LocalLogHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Services\\LocalLogHelper.cs",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Services\\LocalLogHelper.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Services\\LocalLogHelper.cs",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Services\\LocalLogHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:23:30.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Program.cs",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAvwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:46:59.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\appsettings.json",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T18:47:32.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SISONKE_Invoicing_System_EFDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs",
+              "RelativeDocumentMoniker": "..\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\GroupProject\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs",
+              "RelativeToolTip": "..\\LLM_KC_NH_SN_Invoicing_RESTAPI\\LLM_KC_NH_SN_Invoicing_RESTAPI\\Models\\SISONKE_Invoicing_System_EFDBContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:45:19.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

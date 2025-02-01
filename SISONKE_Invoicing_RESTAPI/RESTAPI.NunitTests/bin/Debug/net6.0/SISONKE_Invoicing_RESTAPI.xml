@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SISONKE_Invoicing_RESTAPI</name>
+    </assembly>
+    <members>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Controllers.CustomersInvoiceItemsController">
+            <summary>
+            A summary about CustomersInvoiceItemsController class.
+            </summary>
+            <remarks>
+            CustomersInvoiceItemsController requires a user to be logged in and have specific role to access the end points
+            CustomersInvoiceItemsController has the following end points:
+            Get current logged in user's order details - required role is Customer
+            Get All CustomersInvoiceItems information  - required role is Administrator
+            Get a CustomersInvoiceItems with User id - Authenticated user (Administrator, Employee)
+            Get InvoiceItems with Invoice id - Authenticated user (Administrator, Employee, Customer)
+            Get InvoiceItems with Shipping id - Authenticated user (Administrator, Employee, Customer)
+            Using CustomersInvoiceItemsRepo
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Controllers.CustomersPaymentsController">
+            <summary>
+            A summary about CustomersCustomersPaymentsController class.
+            </summary>
+            <remarks>
+            CustomersPaymentsController requires a user to be logged in and have specific role to access the end points.
+            CustomersPaymentsController has the following end points:
+            Get current logged in user's invoice details - required role is Customer.
+            Get All CustomersPayments information  - required role is (Administrator, Employee).
+            Get a CustomersPayments with User id - Authenticated user (Administrator, Employee).
+            Using CustomersPaymentsRepo.
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Controllers.DiscountsController">
+            <summary>
+            A summary about DiscountsController class.
+            </summary>
+            <remarks>
+            DiscountsController has the following end points:
+            Get all Discounts
+            Get Discounts with id
+            Get Discounts with Name
+            Put (update)  with id and  object
+            Post (Add)  using a Discounts View Model 
+            Delete  with id
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Controllers.InvoiceItemsController">
+            <summary>
+            A summary about InvoiceItemsController class.
+            </summary>
+            <remarks>
+            InvoiceItemsController has the following end points:
+            Get all InvoiceItems
+            Get InvoiceItems with id
+            Put (update) InvoiceItem with id and InvoiceItem object
+            Post (Add) InvoiceItem using a InvoiceItems View Model 
+            Delete InvoiceItem with id
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Controllers.InvoicesController">
+            <summary>
+            A summary about InvoicesController class.
+            </summary>
+            <remarks>
+            InvoicesController has the following end points:
+            Get all Invoices
+            Get Invoices with id
+            Get Invoices with date
+            Get Invoices between dates
+            Put (update) Invoice with id and Invoice object
+            Post (Add) Invoice using a Invoices View Model 
+            Delete Invoice with id
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Controllers.NotesController">
+            <summary>
+            A summary about NotesController class.
+            </summary>
+            <remarks>
+            NotesController has the following end points:
+            Get all Notes
+            Get Notes with id
+            Get Notes with method
+            Get Notes with date
+            Get Notes between dates
+            Put (update) Note with id and Note object
+            Post (Add) Note using a Notes View Model 
+            Delete Note with id
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Controllers.PaymentsController">
+            <summary>
+            A summary about PaymentsController class.
+            </summary>
+            <remarks>
+            PaymentsController has the following end points:
+            Get all Payments
+            Get Payments with id
+            Get Payments with method
+            Get Payments with date
+            Get Payments between dates
+            Put (update) Payment with id and Payment object
+            Post (Add) Payment using a Payments View Model 
+            Delete Payment with id
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Controllers.ProductsController">
+            <summary>
+            A summary about ProductsController class.
+            </summary>
+            <remarks>
+            ProductsController has the following end points:
+            Get all Products
+            Get Products with id
+            Get Products with Name
+            Put (update) Product with id and Product object
+            Post (Add) Product using a Products View Model 
+            Delete Product with id
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Repository.CustomersInvoiceItemsRepo">
+            <summary>
+            A summary about CustomersInvoiceItemsRepo class.
+            </summary>
+            <remarks>
+            CustomersInvoiceItemsRepo has the following methods:
+            Get current logged in user's products
+            Get invoiceItems with order details id
+            Get invoiceItems with order id
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Repository.CustomersInvoicePaymentsRepo">
+            <summary>
+            A summary about CustomersInvoicePaymentsRepo class.
+            </summary>
+            <remarks>
+            CustomersInvoicePaymentsRepo has the following methods:
+            Get current logged in user's invoice payments
+            Get invoice with payment id
+            Get invoice with invoice id
+            </remarks>
+        </member>
+        <member name="T:SISONKE_Invoicing_RESTAPI.Repository.CustomersInvoicesRepo">
+            <summary>
+            A summary about CustomersInvoicesRepo class.
+            </summary>
+            <remarks>
+            CustomersInvoicesRepo has the following methods:
+            Get current logged in user's invoices
+            Get invoices with invoice id
+            </remarks>
+        </member>
+        <member name="T:LLM_eCommerce_RESTAPI.Controllers.CustomersInvoicesController">
+            <summary>
+            A summary about CustomersCustomersInvoicesController class.
+            </summary>
+            <remarks>
+            CustomersInvoicesController requires a user to be logged in and have specific role to access the end points.
+            CustomersInvoicesController has the following end points:
+            Get current logged in user's invoice details - required role is Customer.
+            Get All CustomersInvoices information  - required role is (Administrator, Employee).
+            Get a CustomersInvoices with User id - Authenticated user (Administrator, Employee).
+            Using CustomersInvoicesRepo.
+            </remarks>
+        </member>
+    </members>
+</doc>

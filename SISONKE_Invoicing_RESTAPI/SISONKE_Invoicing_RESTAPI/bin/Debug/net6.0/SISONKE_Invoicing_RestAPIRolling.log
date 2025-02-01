@@ -1,0 +1,535 @@
+2024-06-12 13:58:51,902 [6] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 13:58:51,911 [6] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 13:59:53,261 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 13:59:53,261 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 14:20:26,746 [35] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 14:20:26,746 [35] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 14:21:09,419 [31] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 14:21:09,419 [31] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 14:24:32,918 [38] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 14:24:32,918 [38] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 14:29:42,229 [10] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 14:29:42,239 [10] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 14:33:28,007 [21] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 14:33:28,007 [21] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 14:35:11,863 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 14:35:11,863 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 14:41:27,813 [19] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 14:41:27,813 [19] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 15:55:39,176 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Register
+2024-06-12 15:55:39,187 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Register model:Mhlongo
+2024-06-12 15:56:10,688 [17] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 15:56:10,688 [17] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Llmhlongo
+2024-06-12 15:58:16,864 [29] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 15:58:16,864 [29] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Llmhlongo
+2024-06-12 15:58:53,733 [17] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Register
+2024-06-12 15:58:53,733 [17] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Register model:Mhlongo
+2024-06-12 15:59:12,709 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 15:59:12,709 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Llmhlongo1
+2024-06-12 16:01:22,227 [38] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Register
+2024-06-12 16:01:22,227 [38] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Register model:Mhlongo
+2024-06-12 16:01:30,397 [43] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 16:01:30,397 [43] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Llmhlongo2
+2024-06-12 17:06:50,022 [61] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Register
+2024-06-12 17:06:50,023 [61] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Register model:Mhlongo
+2024-06-12 17:06:50,365 [67] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 17:06:50,365 [67] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Llmhlongo4
+2024-06-12 17:07:47,614 [58] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 17:07:47,614 [58] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 17:40:23,144 [58] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 17:40:23,144 [58] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 17:54:53,495 [46] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 17:54:53,495 [46] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 23:06:22,556 [14] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:06:22,830 [14] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 23:07:05,559 [18] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:07:05,559 [18] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:10:30,862 [24] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:10:30,862 [24] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-12 23:10:53,843 [27] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:10:53,843 [27] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:11:30,941 [34] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:11:30,941 [34] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:13:38,767 [34] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:13:38,767 [34] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:15:55,333 [39] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:15:55,333 [39] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:22:04,823 [30] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:22:04,823 [30] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:24:06,957 [32] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:24:06,957 [32] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:26:34,772 [14] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:26:34,772 [14] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:27:12,055 [16] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:27:12,055 [16] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:27:56,368 [6] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:27:56,368 [6] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:29:22,421 [27] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:29:22,421 [27] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:30:55,068 [54] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:30:55,068 [54] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:31:41,439 [57] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:31:41,439 [57] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:37:13,548 [57] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:37:13,548 [57] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:37:54,334 [4] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:37:54,334 [4] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-12 23:45:31,224 [17] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-12 23:45:31,224 [17] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-13 00:36:15,047 [58] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 00:36:15,047 [58] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 00:37:16,942 [6] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 00:37:16,942 [6] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 00:38:43,655 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 00:38:43,655 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 00:40:05,203 [13] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 00:40:05,203 [13] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 00:41:04,460 [13] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 00:41:04,461 [13] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 11:13:32,767 [10] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 11:13:32,777 [10] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-13 11:13:53,425 [19] INFO CustomersInvoicesController - CustomersInvoicesController - GET: cusinv/MyInvoices
+2024-06-13 11:14:20,125 [24] INFO CustomersInvoicesController - CustomersInvoicesController - GET all CustomersInvoices: /cusinv
+2024-06-13 11:14:20,141 [22] ERROR CustomersInvoicesController - CustomersInvoicesController - GET all CustomersInvoices: /cusinv - Not Authorized - logged in User: Efronz
+2024-06-13 11:16:24,636 [25] INFO CustomersInvoicesController - CustomersInvoicesController - GET: cusinv/userId/1
+2024-06-13 11:16:24,653 [31] WARN CustomersInvoicesController - CustomersInvoicesController - GET: cusinv/userId/1 logged in User: Efronz
+2024-06-13 11:16:38,149 [31] INFO CustomersInvoicesController - CustomersInvoicesController - GET: cusinv/InvoiceInfo/1
+2024-06-13 11:17:08,784 [27] INFO CustomersInvoicesController - CustomersInvoicesController - GET: cusinv/InvoiceInfo/3
+2024-06-13 11:49:05,011 [16] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 11:49:05,021 [16] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 11:49:07,637 [6] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 11:49:07,637 [6] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 11:49:37,217 [10] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 11:49:37,217 [10] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 11:56:39,908 [20] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 11:56:39,918 [20] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 12:03:54,499 [21] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:03:54,509 [21] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 12:07:50,982 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:07:50,985 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 12:11:21,499 [32] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:11:21,499 [32] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-13 12:11:34,281 [32] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:11:34,281 [32] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:30:32,884 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:30:32,894 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:31:45,502 [36] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:31:45,503 [36] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:35:45,797 [26] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:35:45,797 [26] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:37:01,049 [57] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:37:01,049 [57] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:37:46,969 [56] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:37:46,969 [56] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:38:48,793 [61] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:38:48,793 [61] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:43:27,348 [73] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:43:27,348 [73] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:46:23,106 [77] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:46:23,106 [77] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 12:48:17,252 [83] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 12:48:17,252 [83] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 13:05:46,247 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 13:05:46,257 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-13 13:06:14,620 [14] INFO CustomersInvoicesController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-13 13:06:45,601 [25] INFO CustomersInvoicesController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-13 13:08:22,911 [7] INFO CustomersInvoicesController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-13 13:14:04,491 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 13:14:04,500 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-13 13:14:53,948 [13] INFO RestAPIControllers - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-13 13:15:07,109 [23] INFO RestAPIControllers - CustomersPaymentsController - GET: cusinvPay/PaymentInfo/1
+2024-06-13 13:15:16,211 [13] INFO RestAPIControllers - CustomersPaymentsController - GET: cusinvPay/PaymentInfo/4
+2024-06-13 13:15:25,925 [13] INFO RestAPIControllers - CustomersPaymentsController - GET: cusinvPay/PaymentInfo/0
+2024-06-13 13:15:50,918 [22] INFO RestAPIControllers - CustomersInvoicesController - GET: cusinv/MyInvoices
+2024-06-13 13:36:41,818 [13] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 13:36:41,829 [13] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 14:06:21,237 [41] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 14:06:21,250 [41] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 16:34:02,177 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 16:34:02,187 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-13 16:34:50,343 [28] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-13 16:34:50,853 [29] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-13 16:35:58,208 [9] INFO UserProfileController - User profile updated successfully.
+2024-06-13 16:37:26,810 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 16:37:26,810 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 16:45:20,486 [45] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 16:45:20,486 [45] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 16:47:59,442 [60] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 16:47:59,442 [60] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 17:20:07,543 [19] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 17:20:07,553 [19] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-13 17:30:54,875 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 17:30:54,875 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 17:32:31,666 [37] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 17:32:31,666 [37] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 17:44:27,383 [19] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 17:44:27,392 [19] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 17:45:41,797 [24] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 17:45:41,797 [24] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 17:47:04,515 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 17:47:04,515 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-13 17:47:46,312 [40] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 17:47:46,312 [40] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 23:11:16,424 [14] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 23:11:16,434 [14] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 23:11:19,535 [7] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:11:21,043 [7] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:30,192 [22] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:30,453 [31] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:31,460 [8] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:31,580 [22] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:32,454 [8] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:32,567 [22] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:34,987 [31] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:35,093 [7] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:37,726 [8] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:37,848 [31] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:39,648 [30] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:39,908 [29] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:42,467 [29] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:42,594 [28] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:43,735 [29] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:15:43,826 [31] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:27:32,910 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 23:27:32,920 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:ZzimelaAdmin
+2024-06-13 23:27:36,415 [13] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:27:37,430 [12] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:27:50,072 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 23:27:50,072 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 23:27:50,124 [13] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:27:50,412 [4] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:27:54,284 [23] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:27:54,465 [6] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:30:49,083 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 23:30:49,083 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 23:31:14,487 [25] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET all CustomersInvoiceItems: /invItems
+2024-06-13 23:31:46,469 [9] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:32:03,542 [27] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:32:17,730 [29] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/21
+2024-06-13 23:35:33,783 [31] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 23:35:33,783 [31] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 23:35:34,010 [30] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:35:34,238 [31] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:35:42,454 [36] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:35:42,606 [30] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:36:07,334 [30] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:37:44,886 [31] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 23:37:44,886 [31] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 23:37:45,115 [30] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:37:45,455 [38] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:37:49,516 [31] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:37:49,652 [37] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:37:55,281 [42] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:37:59,409 [41] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:37:59,537 [38] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:38:54,126 [38] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:38:54,297 [43] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:54:07,168 [54] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 23:54:07,168 [54] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 23:54:07,457 [53] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:54:07,777 [58] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:54:11,107 [53] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:54:11,268 [53] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:54:14,897 [53] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:54:14,938 [54] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:54:58,508 [56] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-13 23:54:58,509 [56] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-13 23:54:58,727 [57] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:54:58,948 [56] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:57:17,230 [19] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:57:30,203 [19] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:57:30,373 [67] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:57:37,091 [17] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:57:37,111 [65] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:57:40,451 [66] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:57:40,514 [17] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:57:56,405 [64] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/21
+2024-06-13 23:58:00,167 [19] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:58:06,053 [66] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/21
+2024-06-13 23:58:08,695 [66] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:58:39,784 [19] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-13 23:58:39,809 [17] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-13 23:58:56,288 [71] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/21
+2024-06-14 00:00:53,454 [65] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 00:00:53,455 [65] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-14 00:00:53,684 [72] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:00:53,925 [75] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:00:58,860 [78] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:00:59,091 [75] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:01:05,740 [74] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-14 00:01:05,839 [71] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:02:21,592 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 00:02:21,601 [12] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-14 00:02:25,350 [14] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:02:26,013 [12] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:02:29,779 [19] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:02:30,089 [13] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:02:31,493 [12] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-14 00:02:31,584 [19] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:24,293 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 00:04:24,293 [28] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Jkhalid
+2024-06-14 00:04:24,534 [25] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:24,745 [27] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:29,222 [27] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:29,431 [27] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:30,939 [25] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-14 00:04:31,001 [28] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:31,084 [25] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/1
+2024-06-14 00:04:31,117 [25] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:42,133 [28] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:42,264 [12] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:46,564 [25] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/2
+2024-06-14 00:04:46,597 [28] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:04:46,708 [25] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/2
+2024-06-14 00:04:46,744 [19] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:06:03,074 [35] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/2
+2024-06-14 00:06:03,121 [36] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:06:03,210 [19] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/2
+2024-06-14 00:06:03,233 [7] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:06:36,160 [36] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/2
+2024-06-14 00:06:36,243 [25] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:06:36,456 [36] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/2
+2024-06-14 00:06:36,499 [35] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:06:59,709 [35] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/2
+2024-06-14 00:06:59,750 [35] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:06:59,966 [35] INFO CustomersInvoiceItemsController - CustomersInvoiceItemsController - GET: invItems/customersByInvoicesId/2
+2024-06-14 00:07:00,028 [36] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:07:05,230 [36] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:07:05,359 [42] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:07:08,748 [35] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:07:08,862 [28] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:07:16,970 [43] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:07:17,227 [42] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:12:53,874 [46] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:12:54,077 [52] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:12:59,871 [43] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:13:00,093 [41] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:13:04,417 [53] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:13:13,019 [48] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 00:13:13,019 [48] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-14 00:13:13,117 [43] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:13:13,390 [52] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:13:16,918 [41] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:13:16,968 [46] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:13:17,131 [53] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:13:17,167 [46] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:14:12,378 [53] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:14:12,546 [52] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:16:08,098 [64] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:16:08,357 [60] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:17:16,202 [67] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:17:16,719 [70] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:18:30,257 [84] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:18:30,500 [79] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:19:01,192 [86] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:19:01,421 [89] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:19:21,366 [88] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:19:21,526 [89] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:19:49,493 [92] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:19:49,665 [89] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:19:58,686 [90] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:19:58,840 [81] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:20:00,529 [86] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:20:00,554 [90] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:20:00,690 [90] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:20:00,723 [86] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:23:52,949 [108] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:23:52,979 [110] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:23:53,248 [114] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:23:53,287 [114] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:24:18,802 [117] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:24:18,865 [119] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:34:42,597 [161] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 00:34:42,597 [161] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-14 00:34:42,882 [161] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:34:43,137 [161] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:34:46,156 [166] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:34:46,225 [165] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:34:46,374 [169] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:34:46,400 [165] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:34:51,260 [166] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:34:51,561 [161] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:34:57,660 [165] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:34:57,786 [165] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:05,164 [169] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:05,343 [168] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:25,455 [177] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:26,164 [178] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:39,865 [174] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:47,336 [173] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:47,355 [173] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:35:47,500 [178] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:47,524 [176] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:35:52,936 [171] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:55,015 [161] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:35:59,612 [176] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:36:01,702 [177] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:36:02,035 [181] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:36:09,348 [171] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:36:14,443 [176] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:37:18,448 [184] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:37:18,464 [184] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:37:19,504 [184] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:37:19,521 [162] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:37:34,774 [181] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:37:34,937 [183] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:50:32,423 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 00:50:32,433 [9] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-14 00:50:35,042 [18] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:50:35,697 [12] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:50:41,589 [12] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:50:41,617 [4] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:50:41,803 [14] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:50:41,820 [13] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:50:45,338 [12] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:50:45,480 [14] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:52:41,215 [38] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:52:45,818 [39] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:52:45,837 [36] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:52:46,083 [39] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:52:46,098 [38] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 00:52:48,509 [38] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:52:48,982 [35] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:06:10,694 [24] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 01:06:10,703 [24] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-14 01:06:13,392 [28] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:06:14,061 [34] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:06:16,949 [24] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:06:16,977 [33] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:06:17,168 [33] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:06:17,192 [24] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:06:21,335 [30] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:06:21,484 [27] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:06:49,624 [34] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:08,501 [30] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:08,519 [27] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:07:13,841 [34] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:15,387 [29] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:07:28,325 [15] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:28,350 [34] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:07:28,491 [15] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:28,523 [34] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:07:32,614 [28] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:32,788 [34] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:38,016 [8] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:38,032 [8] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:07:38,179 [29] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:07:38,200 [24] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:10:58,588 [44] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 01:10:58,588 [44] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-14 01:11:31,333 [44] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:12:09,098 [42] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:15:21,485 [62] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:15:21,776 [65] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:22:50,125 [94] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 01:22:50,125 [94] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-14 01:22:50,569 [85] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:22:50,848 [85] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:22:54,389 [93] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:22:54,410 [93] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:22:54,574 [83] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:22:54,596 [83] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:23:03,748 [94] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:23:03,888 [83] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:23:07,213 [85] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:23:26,375 [94] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:23:26,509 [89] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:23:27,827 [84] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:23:27,922 [81] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:23:29,505 [85] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:24:09,084 [81] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:24:34,907 [83] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:24:35,045 [68] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:26:25,721 [64] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:27:12,962 [62] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:27:23,133 [9] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:27:28,248 [21] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:27:28,404 [15] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:27:41,954 [4] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:28:29,361 [14] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:28:29,387 [15] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:28:29,633 [4] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:28:29,651 [14] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:29:56,736 [36] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:29:56,753 [34] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:29:57,036 [34] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:29:57,081 [35] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:30:20,411 [36] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:20,431 [33] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:30:20,670 [34] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:20,694 [35] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:30:35,229 [33] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:35,249 [36] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:30:35,447 [34] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:35,470 [34] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:30:54,363 [36] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:54,516 [35] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:58,031 [33] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:58,158 [33] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:59,684 [32] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:30:59,815 [21] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:31:42,696 [35] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:31:42,927 [34] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:32:04,954 [43] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:32:05,242 [33] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:33:36,308 [48] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:33:36,497 [50] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:34:15,030 [50] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:34:15,274 [48] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:34:24,352 [55] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:34:24,519 [55] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:35:13,636 [56] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:35:13,896 [64] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:35:50,256 [56] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:35:50,485 [56] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:36:39,406 [73] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:36:39,787 [75] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:37:14,725 [75] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:37:14,984 [74] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:37:50,895 [82] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:37:51,295 [80] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:38:45,371 [89] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:38:45,653 [86] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:39:57,844 [95] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:39:58,093 [95] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:40:33,018 [102] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:40:33,243 [104] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:41:48,778 [113] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:42:02,080 [115] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:42:03,583 [113] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:42:03,601 [115] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:42:09,180 [113] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:42:09,201 [113] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:42:44,041 [112] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:42:44,071 [120] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:42:44,219 [118] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:42:44,239 [115] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:42:47,414 [122] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:43:26,321 [124] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login
+2024-06-14 01:43:26,321 [124] INFO ApplicationUserController - ApplicationUserController - Post : /api/ApplicationUser/Login model.UserName:Efronz
+2024-06-14 01:43:26,579 [116] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:43:26,842 [124] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:43:32,846 [116] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:43:32,863 [124] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:43:33,027 [116] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:43:33,054 [120] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:43:37,903 [120] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:43:56,997 [123] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:43:57,241 [127] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:44:28,387 [132] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:44:28,561 [127] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:45:00,140 [127] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:45:00,432 [133] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:45:36,222 [132] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:45:36,453 [136] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:46:13,510 [142] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:46:13,767 [143] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:46:30,426 [141] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:46:30,483 [139] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:46:30,502 [139] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:46:30,706 [142] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:46:30,727 [140] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:46:49,757 [151] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:46:49,777 [155] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments
+2024-06-14 01:46:49,957 [134] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:46:49,993 [155] INFO CustomersPaymentsController - CustomersPaymentsController - GET:  cusinvPay/MyPayments

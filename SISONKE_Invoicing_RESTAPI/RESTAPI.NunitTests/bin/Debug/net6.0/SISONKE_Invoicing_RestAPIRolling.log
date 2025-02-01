@@ -1,0 +1,1427 @@
+2024-06-14 00:58:47,558 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 00:58:47,641 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 00:58:48,426 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 00:58:49,647 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update0 Unauthorized USER:Efronz
+2024-06-14 00:58:49,673 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 00:58:49,674 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 00:58:49,674 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 00:58:49,700 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:11 exists - Not found
+2024-06-14 00:58:49,700 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:12 exists - Not found
+2024-06-14 00:58:49,701 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 00:58:49,723 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,723 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,724 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,749 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,749 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,772 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,773 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,796 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,796 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,820 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,821 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,846 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,846 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,868 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,868 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 00:58:49,891 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 00:58:49,891 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 00:58:49,915 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 00:58:49,938 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 00:58:49,962 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 00:58:49,985 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update13 Unauthorized USER:ZzimelaAdmin
+2024-06-14 00:58:49,985 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 00:58:50,008 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 00:58:50,008 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 00:58:50,008 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 00:58:50,008 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 00:58:50,501 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2012/01/01 00:00:00 exists - Not found
+2024-06-14 00:58:50,523 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2013/01/01 00:00:00 exists - Not found
+2024-06-14 00:58:50,544 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2014/01/01 00:00:00 exists - Not found
+2024-06-14 00:58:50,564 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2015/01/01 00:00:00 exists - Not found
+2024-06-14 00:58:50,588 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2016/01/01 00:00:00 exists - Not found
+2024-06-14 00:58:50,843 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 00:58:50,867 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 00:58:50,890 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments1
+2024-06-14 00:58:50,922 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments2
+2024-06-14 00:58:50,945 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments3
+2024-06-14 00:58:50,966 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments4
+2024-06-14 00:58:50,986 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments5
+2024-06-14 00:58:51,008 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments6
+2024-06-14 00:58:51,028 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 00:58:51,049 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 00:58:51,073 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 00:58:51,094 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 00:58:51,117 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsPayPal
+2024-06-14 00:58:51,148 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsEFT
+2024-06-14 00:58:51,148 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsEFT No Payment with that Name exists, please try again
+2024-06-14 00:58:51,169 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCoupon
+2024-06-14 00:58:51,169 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCoupon No Payment with that Name exists, please try again
+2024-06-14 00:58:51,191 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsLayBy
+2024-06-14 00:58:51,191 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsLayBy No Payment with that Name exists, please try again
+2024-06-14 00:58:51,212 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCredit
+2024-06-14 00:58:51,212 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCredit No Payment with that Name exists, please try again
+2024-06-14 00:58:51,233 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCheque
+2024-06-14 00:58:51,233 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCheque No Payment with that Name exists, please try again
+2024-06-14 00:58:51,254 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments20
+2024-06-14 00:58:51,259 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments20 / No Payment with that ID exists, please try again
+2024-06-14 00:58:51,282 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,282 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,309 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 00:58:51,313 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 00:58:51,319 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 00:58:51,342 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 00:58:51,343 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments1 / Not authorised to update payments
+2024-06-14 00:58:51,343 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 00:58:51,343 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments2 / Not authorised to update payments
+2024-06-14 00:58:51,343 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 00:58:51,343 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments3 / Not authorised to update payments
+2024-06-14 00:58:51,365 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments11
+2024-06-14 00:58:51,365 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments11 /No Payment with that ID exists, please try again
+2024-06-14 00:58:51,366 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments12
+2024-06-14 00:58:51,366 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments12 /No Payment with that ID exists, please try again
+2024-06-14 00:58:51,366 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments13
+2024-06-14 00:58:51,366 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments13 /No Payment with that ID exists, please try again
+2024-06-14 00:58:51,392 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,401 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,402 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,427 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,427 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,427 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,428 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,428 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,428 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,428 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 00:58:51,449 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,450 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,450 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,450 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,450 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 00:58:51,450 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 00:58:51,472 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,472 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,472 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,472 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,472 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments12
+2024-06-14 00:58:51,473 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments12 / No Payment with that ID exists, please try again
+2024-06-14 00:58:51,493 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,494 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,494 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,494 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,494 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 00:58:51,514 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,515 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,515 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,515 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,515 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 00:58:51,536 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,536 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,536 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,536 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,536 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 00:58:51,559 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,560 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,560 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,560 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,560 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 00:58:51,586 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,586 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,586 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,586 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,586 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 00:58:51,587 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 00:58:51,615 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,616 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,641 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,641 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,665 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 00:58:51,665 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 00:58:51,687 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,687 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,687 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 00:58:51,688 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Payment ID not found, please try again
+2024-06-14 00:58:51,711 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,712 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,712 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:51,712 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 00:58:51,712 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 00:58:51,712 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 00:58:51,712 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 00:58:51,712 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 00:58:51,735 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/11/12 00:00:00
+2024-06-14 00:58:51,763 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/04 00:00:00
+2024-06-14 00:58:51,783 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/05 00:00:00
+2024-06-14 00:58:51,804 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/07/14 00:00:00
+2024-06-14 00:58:51,826 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/05/24 00:00:00
+2024-06-14 00:58:51,848 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/11 00:00:00
+2024-06-14 00:58:51,868 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/13 00:00:00
+2024-06-14 00:58:51,889 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/02/10 00:00:00
+2024-06-14 00:58:51,910 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/04/05 00:00:00
+2024-06-14 00:58:51,931 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/06/10 00:00:00
+2024-06-14 00:58:51,954 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00
+2024-06-14 00:58:51,954 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:51,975 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00
+2024-06-14 00:58:51,975 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:51,996 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00
+2024-06-14 00:58:51,996 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,016 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00
+2024-06-14 00:58:52,017 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,038 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00
+2024-06-14 00:58:52,038 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,058 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00
+2024-06-14 00:58:52,058 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,081 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00
+2024-06-14 00:58:52,081 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,101 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00
+2024-06-14 00:58:52,101 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,122 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00
+2024-06-14 00:58:52,122 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,143 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00
+2024-06-14 00:58:52,143 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,163 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00
+2024-06-14 00:58:52,163 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 00:58:52,187 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,210 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,231 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,251 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,272 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,294 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,294 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 00:58:52,317 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,317 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 00:58:52,339 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,339 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 00:58:52,359 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,359 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 00:58:52,380 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 00:58:52,380 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 00:58:52,403 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:58:52,428 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:58:52,450 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products1
+2024-06-14 00:58:52,497 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products2
+2024-06-14 00:58:52,517 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products3
+2024-06-14 00:58:52,538 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products4
+2024-06-14 00:58:52,559 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products5
+2024-06-14 00:58:52,580 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products6
+2024-06-14 00:58:52,601 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 00:58:52,624 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 00:58:52,645 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 00:58:52,666 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 00:58:52,694 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsLaptop
+2024-06-14 00:58:52,727 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartphone
+2024-06-14 00:58:52,748 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartwatch
+2024-06-14 00:58:52,771 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsHeadphones
+2024-06-14 00:58:52,792 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablet
+2024-06-14 00:58:52,814 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsWaptop
+2024-06-14 00:58:52,814 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsWaptop No Product with that Name exists, please try again
+2024-06-14 00:58:52,836 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartbone
+2024-06-14 00:58:52,836 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartbone No Product with that Name exists, please try again
+2024-06-14 00:58:52,857 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartlatch
+2024-06-14 00:58:52,857 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartlatch No Product with that Name exists, please try again
+2024-06-14 00:58:52,878 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsNosephones
+2024-06-14 00:58:52,878 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsNosephones No Product with that Name exists, please try again
+2024-06-14 00:58:52,899 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablett
+2024-06-14 00:58:52,899 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsTablett No Product with that Name exists, please try again
+2024-06-14 00:58:52,920 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products20
+2024-06-14 00:58:52,925 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/Products20 / No Product with that ID exists, please try again
+2024-06-14 00:58:52,947 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:52,948 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Cannot to add products an empty product
+2024-06-14 00:58:52,971 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 00:58:52,978 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 00:58:52,978 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 00:58:53,012 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 00:58:53,012 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products1 / Not authorised to update products as a customer
+2024-06-14 00:58:53,012 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 00:58:53,013 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products2 / Not authorised to update products as a customer
+2024-06-14 00:58:53,013 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 00:58:53,013 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products3 / Not authorised to update products as a customer
+2024-06-14 00:58:53,034 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products11
+2024-06-14 00:58:53,034 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products11 /No Product with that ID exists, please try again
+2024-06-14 00:58:53,034 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products13
+2024-06-14 00:58:53,035 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products13 /No Product with that ID exists, please try again
+2024-06-14 00:58:53,035 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products19
+2024-06-14 00:58:53,035 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products19 /No Product with that ID exists, please try again
+2024-06-14 00:58:53,057 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,062 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,063 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,085 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,086 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,087 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,087 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 00:58:53,109 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,110 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,113 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 00:58:53,134 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,135 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,136 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products12
+2024-06-14 00:58:53,157 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,158 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,160 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 00:58:53,181 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,182 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,183 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 00:58:53,205 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,206 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,207 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 00:58:53,230 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,231 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,231 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 00:58:53,253 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,254 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,255 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 00:58:53,282 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,315 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,315 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Not authorised to add products as a customer
+2024-06-14 00:58:53,337 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,340 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 00:58:53,340 [NonParallelWorker] WARN ProductsController - ProductsController -DELETE : api/Products / Not authorised to delete products
+2024-06-14 00:58:53,361 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,362 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 00:58:53,396 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,397 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 00:58:53,397 [NonParallelWorker] ERROR ProductsController - ProductsController -DELETE : api/Products / Error, Cannot delete Products that have been invoiced
+2024-06-14 00:58:53,418 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,419 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 00:58:53,420 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 00:58:53,421 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 00:59:43,199 [18] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 00:59:43,424 [18] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:02:23,058 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:02:23,140 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:02:23,845 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:02:25,232 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update0 Unauthorized USER:Efronz
+2024-06-14 01:02:25,258 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:02:25,258 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:02:25,258 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:02:25,285 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:11 exists - Not found
+2024-06-14 01:02:25,285 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:12 exists - Not found
+2024-06-14 01:02:25,285 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 01:02:25,309 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,310 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,310 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,332 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,333 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,354 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,355 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,376 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,377 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,399 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,399 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,424 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,424 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,446 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,446 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:02:25,469 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:02:25,470 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:02:25,493 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:02:25,518 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:02:25,542 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:02:25,566 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update13 Unauthorized USER:ZzimelaAdmin
+2024-06-14 01:02:25,567 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 01:02:25,592 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:02:25,592 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:02:25,593 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:02:25,593 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:02:26,117 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2012/01/01 00:00:00 exists - Not found
+2024-06-14 01:02:26,138 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2013/01/01 00:00:00 exists - Not found
+2024-06-14 01:02:26,159 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2014/01/01 00:00:00 exists - Not found
+2024-06-14 01:02:26,181 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2015/01/01 00:00:00 exists - Not found
+2024-06-14 01:02:26,206 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2016/01/01 00:00:00 exists - Not found
+2024-06-14 01:02:26,447 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:02:26,478 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:02:26,502 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments1
+2024-06-14 01:02:26,535 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments2
+2024-06-14 01:02:26,556 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments3
+2024-06-14 01:02:26,579 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments4
+2024-06-14 01:02:26,602 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments5
+2024-06-14 01:02:26,624 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments6
+2024-06-14 01:02:26,649 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 01:02:26,671 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 01:02:26,693 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 01:02:26,715 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 01:02:26,739 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsPayPal
+2024-06-14 01:02:26,773 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsEFT
+2024-06-14 01:02:26,774 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsEFT No Payment with that Name exists, please try again
+2024-06-14 01:02:26,794 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCoupon
+2024-06-14 01:02:26,795 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCoupon No Payment with that Name exists, please try again
+2024-06-14 01:02:26,815 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsLayBy
+2024-06-14 01:02:26,816 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsLayBy No Payment with that Name exists, please try again
+2024-06-14 01:02:26,836 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCredit
+2024-06-14 01:02:26,836 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCredit No Payment with that Name exists, please try again
+2024-06-14 01:02:26,857 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCheque
+2024-06-14 01:02:26,857 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCheque No Payment with that Name exists, please try again
+2024-06-14 01:02:26,880 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments20
+2024-06-14 01:02:26,884 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments20 / No Payment with that ID exists, please try again
+2024-06-14 01:02:26,909 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:26,909 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:26,941 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 01:02:26,948 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 01:02:26,957 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 01:02:26,983 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 01:02:26,983 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments1 / Not authorised to update payments
+2024-06-14 01:02:26,983 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 01:02:26,983 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments2 / Not authorised to update payments
+2024-06-14 01:02:26,983 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 01:02:26,983 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments3 / Not authorised to update payments
+2024-06-14 01:02:27,007 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments11
+2024-06-14 01:02:27,008 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments11 /No Payment with that ID exists, please try again
+2024-06-14 01:02:27,008 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments12
+2024-06-14 01:02:27,008 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments12 /No Payment with that ID exists, please try again
+2024-06-14 01:02:27,008 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments13
+2024-06-14 01:02:27,008 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments13 /No Payment with that ID exists, please try again
+2024-06-14 01:02:27,038 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,048 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,049 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,071 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,071 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,071 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,072 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,072 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,072 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,072 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:02:27,094 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,094 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,094 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,094 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,094 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 01:02:27,095 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 01:02:27,115 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,116 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,116 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,116 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,116 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments12
+2024-06-14 01:02:27,116 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments12 / No Payment with that ID exists, please try again
+2024-06-14 01:02:27,139 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,139 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,139 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,139 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,139 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 01:02:27,161 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,161 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,161 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,162 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,162 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 01:02:27,183 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,183 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,183 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,183 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,183 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 01:02:27,205 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,205 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,205 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,206 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,206 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 01:02:27,227 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,228 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,228 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,228 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,228 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 01:02:27,228 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 01:02:27,254 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,254 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,278 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,279 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,303 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:02:27,303 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:02:27,327 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,369 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,369 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:02:27,369 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Payment ID not found, please try again
+2024-06-14 01:02:27,392 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,392 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,392 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,392 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:02:27,392 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:02:27,393 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:02:27,393 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:02:27,393 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:02:27,419 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/11/12 00:00:00
+2024-06-14 01:02:27,446 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/04 00:00:00
+2024-06-14 01:02:27,467 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/05 00:00:00
+2024-06-14 01:02:27,488 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/07/14 00:00:00
+2024-06-14 01:02:27,509 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/05/24 00:00:00
+2024-06-14 01:02:27,530 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/11 00:00:00
+2024-06-14 01:02:27,554 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/13 00:00:00
+2024-06-14 01:02:27,575 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/02/10 00:00:00
+2024-06-14 01:02:27,596 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/04/05 00:00:00
+2024-06-14 01:02:27,618 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/06/10 00:00:00
+2024-06-14 01:02:27,639 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00
+2024-06-14 01:02:27,640 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,663 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00
+2024-06-14 01:02:27,663 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,684 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00
+2024-06-14 01:02:27,684 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,706 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00
+2024-06-14 01:02:27,706 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,727 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00
+2024-06-14 01:02:27,727 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,748 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00
+2024-06-14 01:02:27,748 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,770 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00
+2024-06-14 01:02:27,770 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,791 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00
+2024-06-14 01:02:27,791 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,811 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00
+2024-06-14 01:02:27,812 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,835 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00
+2024-06-14 01:02:27,835 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,855 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00
+2024-06-14 01:02:27,855 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:02:27,878 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,900 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,921 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,944 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,964 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,986 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:27,986 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:02:28,007 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:28,007 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:02:28,028 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:28,028 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:02:28,050 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:28,051 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:02:28,074 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:02:28,074 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:02:28,105 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:02:28,136 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:02:28,161 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products1
+2024-06-14 01:02:28,209 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products2
+2024-06-14 01:02:28,231 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products3
+2024-06-14 01:02:28,253 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products4
+2024-06-14 01:02:28,276 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products5
+2024-06-14 01:02:28,303 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products6
+2024-06-14 01:02:28,326 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 01:02:28,350 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 01:02:28,373 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 01:02:28,395 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 01:02:28,420 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsLaptop
+2024-06-14 01:02:28,450 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartphone
+2024-06-14 01:02:28,471 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartwatch
+2024-06-14 01:02:28,492 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsHeadphones
+2024-06-14 01:02:28,515 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablet
+2024-06-14 01:02:28,538 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsWaptop
+2024-06-14 01:02:28,539 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsWaptop No Product with that Name exists, please try again
+2024-06-14 01:02:28,559 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartbone
+2024-06-14 01:02:28,560 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartbone No Product with that Name exists, please try again
+2024-06-14 01:02:28,581 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartlatch
+2024-06-14 01:02:28,581 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartlatch No Product with that Name exists, please try again
+2024-06-14 01:02:28,602 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsNosephones
+2024-06-14 01:02:28,602 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsNosephones No Product with that Name exists, please try again
+2024-06-14 01:02:28,624 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablett
+2024-06-14 01:02:28,624 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsTablett No Product with that Name exists, please try again
+2024-06-14 01:02:28,645 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products20
+2024-06-14 01:02:28,650 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/Products20 / No Product with that ID exists, please try again
+2024-06-14 01:02:28,672 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,673 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Cannot to add products an empty product
+2024-06-14 01:02:28,696 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 01:02:28,702 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 01:02:28,703 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 01:02:28,736 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 01:02:28,736 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products1 / Not authorised to update products as a customer
+2024-06-14 01:02:28,736 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 01:02:28,736 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products2 / Not authorised to update products as a customer
+2024-06-14 01:02:28,736 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 01:02:28,736 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products3 / Not authorised to update products as a customer
+2024-06-14 01:02:28,759 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products11
+2024-06-14 01:02:28,760 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products11 /No Product with that ID exists, please try again
+2024-06-14 01:02:28,760 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products13
+2024-06-14 01:02:28,760 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products13 /No Product with that ID exists, please try again
+2024-06-14 01:02:28,760 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products19
+2024-06-14 01:02:28,760 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products19 /No Product with that ID exists, please try again
+2024-06-14 01:02:28,782 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,787 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,788 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,810 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,811 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,811 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,812 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:02:28,834 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,835 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,836 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 01:02:28,858 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,859 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,860 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products12
+2024-06-14 01:02:28,881 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,882 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,883 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 01:02:28,904 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,905 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,906 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 01:02:28,928 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,929 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,930 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 01:02:28,951 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,952 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,952 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 01:02:28,974 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,975 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:28,976 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 01:02:28,998 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:29,032 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:29,032 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Not authorised to add products as a customer
+2024-06-14 01:02:29,056 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:29,058 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:02:29,058 [NonParallelWorker] WARN ProductsController - ProductsController -DELETE : api/Products / Not authorised to delete products
+2024-06-14 01:02:29,080 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:29,081 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:02:29,113 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:29,115 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:02:29,115 [NonParallelWorker] ERROR ProductsController - ProductsController -DELETE : api/Products / Error, Cannot delete Products that have been invoiced
+2024-06-14 01:02:29,137 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:29,138 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:02:29,139 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:02:29,139 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:04:27,771 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:04:27,851 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:04:28,552 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:04:29,860 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update0 Unauthorized USER:Efronz
+2024-06-14 01:04:29,907 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:04:29,907 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:04:29,907 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:04:29,937 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:11 exists - Not found
+2024-06-14 01:04:29,937 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:12 exists - Not found
+2024-06-14 01:04:29,938 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 01:04:29,963 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:29,963 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:29,963 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:29,987 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:29,987 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,024 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,025 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,048 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,048 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,070 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,070 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,092 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,092 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,113 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,114 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:04:30,137 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:04:30,137 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:04:30,161 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:04:30,185 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:04:30,210 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:04:30,234 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update13 Unauthorized USER:ZzimelaAdmin
+2024-06-14 01:04:30,234 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 01:04:30,259 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:04:30,259 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:04:30,259 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:04:30,259 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:04:30,751 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2012/01/01 00:00:00 exists - Not found
+2024-06-14 01:04:30,772 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2013/01/01 00:00:00 exists - Not found
+2024-06-14 01:04:30,795 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2014/01/01 00:00:00 exists - Not found
+2024-06-14 01:04:30,816 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2015/01/01 00:00:00 exists - Not found
+2024-06-14 01:04:30,836 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2016/01/01 00:00:00 exists - Not found
+2024-06-14 01:04:31,069 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:04:31,093 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:04:31,119 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments1
+2024-06-14 01:04:31,151 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments2
+2024-06-14 01:04:31,172 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments3
+2024-06-14 01:04:31,193 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments4
+2024-06-14 01:04:31,214 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments5
+2024-06-14 01:04:31,235 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments6
+2024-06-14 01:04:31,256 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 01:04:31,279 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 01:04:31,300 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 01:04:31,322 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 01:04:31,345 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsPayPal
+2024-06-14 01:04:31,375 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsEFT
+2024-06-14 01:04:31,376 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsEFT No Payment with that Name exists, please try again
+2024-06-14 01:04:31,400 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCoupon
+2024-06-14 01:04:31,400 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCoupon No Payment with that Name exists, please try again
+2024-06-14 01:04:31,421 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsLayBy
+2024-06-14 01:04:31,421 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsLayBy No Payment with that Name exists, please try again
+2024-06-14 01:04:31,442 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCredit
+2024-06-14 01:04:31,442 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCredit No Payment with that Name exists, please try again
+2024-06-14 01:04:31,466 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCheque
+2024-06-14 01:04:31,466 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCheque No Payment with that Name exists, please try again
+2024-06-14 01:04:31,489 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments20
+2024-06-14 01:04:31,496 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments20 / No Payment with that ID exists, please try again
+2024-06-14 01:04:31,520 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,521 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,548 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 01:04:31,553 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 01:04:31,559 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 01:04:31,585 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 01:04:31,585 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments1 / Not authorised to update payments
+2024-06-14 01:04:31,585 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 01:04:31,585 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments2 / Not authorised to update payments
+2024-06-14 01:04:31,585 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 01:04:31,585 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments3 / Not authorised to update payments
+2024-06-14 01:04:31,608 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments11
+2024-06-14 01:04:31,609 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments11 /No Payment with that ID exists, please try again
+2024-06-14 01:04:31,609 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments12
+2024-06-14 01:04:31,609 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments12 /No Payment with that ID exists, please try again
+2024-06-14 01:04:31,609 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments13
+2024-06-14 01:04:31,609 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments13 /No Payment with that ID exists, please try again
+2024-06-14 01:04:31,636 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,645 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,645 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,668 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,668 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,668 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,668 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,668 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,669 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,669 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:04:31,691 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,691 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,691 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,692 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,692 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 01:04:31,692 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 01:04:31,713 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,713 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,713 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,713 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,713 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments12
+2024-06-14 01:04:31,714 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments12 / No Payment with that ID exists, please try again
+2024-06-14 01:04:31,734 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,734 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,734 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,735 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,735 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 01:04:31,755 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,755 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,755 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,756 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,756 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 01:04:31,777 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,778 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,778 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,778 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,778 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 01:04:31,800 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,801 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,801 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,801 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,801 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 01:04:31,824 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,825 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,825 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,825 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,825 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 01:04:31,825 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 01:04:31,848 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,849 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,874 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,874 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,898 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:04:31,899 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:04:31,921 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,921 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,921 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:04:31,922 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Payment ID not found, please try again
+2024-06-14 01:04:31,945 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,945 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,945 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:31,945 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:04:31,945 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:04:31,945 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:04:31,945 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:04:31,945 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:04:31,970 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/11/12 00:00:00
+2024-06-14 01:04:31,997 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/04 00:00:00
+2024-06-14 01:04:32,018 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/05 00:00:00
+2024-06-14 01:04:32,039 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/07/14 00:00:00
+2024-06-14 01:04:32,059 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/05/24 00:00:00
+2024-06-14 01:04:32,082 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/11 00:00:00
+2024-06-14 01:04:32,106 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/13 00:00:00
+2024-06-14 01:04:32,132 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/02/10 00:00:00
+2024-06-14 01:04:32,153 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/04/05 00:00:00
+2024-06-14 01:04:32,174 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/06/10 00:00:00
+2024-06-14 01:04:32,196 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00
+2024-06-14 01:04:32,196 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,217 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00
+2024-06-14 01:04:32,217 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,240 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00
+2024-06-14 01:04:32,240 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,262 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00
+2024-06-14 01:04:32,262 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,283 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00
+2024-06-14 01:04:32,283 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,304 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00
+2024-06-14 01:04:32,304 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,326 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00
+2024-06-14 01:04:32,326 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,347 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00
+2024-06-14 01:04:32,347 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,370 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00
+2024-06-14 01:04:32,370 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,391 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00
+2024-06-14 01:04:32,391 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,412 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00
+2024-06-14 01:04:32,412 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:04:32,434 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,455 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,477 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,500 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,521 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,544 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,545 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:04:32,566 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,566 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:04:32,589 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,590 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:04:32,613 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,613 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:04:32,635 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:04:32,635 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:04:32,658 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:04:32,684 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:04:32,706 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products1
+2024-06-14 01:04:32,751 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products2
+2024-06-14 01:04:32,772 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products3
+2024-06-14 01:04:32,795 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products4
+2024-06-14 01:04:32,819 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products5
+2024-06-14 01:04:32,840 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products6
+2024-06-14 01:04:32,863 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 01:04:32,883 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 01:04:32,904 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 01:04:32,925 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 01:04:32,950 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsLaptop
+2024-06-14 01:04:32,980 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartphone
+2024-06-14 01:04:33,001 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartwatch
+2024-06-14 01:04:33,022 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsHeadphones
+2024-06-14 01:04:33,044 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablet
+2024-06-14 01:04:33,071 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsWaptop
+2024-06-14 01:04:33,071 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsWaptop No Product with that Name exists, please try again
+2024-06-14 01:04:33,092 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartbone
+2024-06-14 01:04:33,092 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartbone No Product with that Name exists, please try again
+2024-06-14 01:04:33,114 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartlatch
+2024-06-14 01:04:33,114 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartlatch No Product with that Name exists, please try again
+2024-06-14 01:04:33,136 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsNosephones
+2024-06-14 01:04:33,136 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsNosephones No Product with that Name exists, please try again
+2024-06-14 01:04:33,157 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablett
+2024-06-14 01:04:33,158 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsTablett No Product with that Name exists, please try again
+2024-06-14 01:04:33,181 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products20
+2024-06-14 01:04:33,186 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/Products20 / No Product with that ID exists, please try again
+2024-06-14 01:04:33,209 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,210 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Cannot to add products an empty product
+2024-06-14 01:04:33,234 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 01:04:33,239 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 01:04:33,240 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 01:04:33,274 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 01:04:33,274 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products1 / Not authorised to update products as a customer
+2024-06-14 01:04:33,274 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 01:04:33,274 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products2 / Not authorised to update products as a customer
+2024-06-14 01:04:33,274 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 01:04:33,275 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products3 / Not authorised to update products as a customer
+2024-06-14 01:04:33,297 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products11
+2024-06-14 01:04:33,298 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products11 /No Product with that ID exists, please try again
+2024-06-14 01:04:33,298 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products13
+2024-06-14 01:04:33,298 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products13 /No Product with that ID exists, please try again
+2024-06-14 01:04:33,298 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products19
+2024-06-14 01:04:33,300 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products19 /No Product with that ID exists, please try again
+2024-06-14 01:04:33,321 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,325 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,326 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,349 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,350 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,351 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,352 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:04:33,373 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,374 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,375 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 01:04:33,396 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,397 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,399 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products12
+2024-06-14 01:04:33,420 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,421 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,421 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 01:04:33,442 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,443 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,444 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 01:04:33,465 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,466 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,466 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 01:04:33,488 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,489 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,490 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 01:04:33,511 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,513 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,514 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 01:04:33,536 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,569 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,569 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Not authorised to add products as a customer
+2024-06-14 01:04:33,592 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,594 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:04:33,595 [NonParallelWorker] WARN ProductsController - ProductsController -DELETE : api/Products / Not authorised to delete products
+2024-06-14 01:04:33,618 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,619 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:04:33,651 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,652 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:04:33,652 [NonParallelWorker] ERROR ProductsController - ProductsController -DELETE : api/Products / Error, Cannot delete Products that have been invoiced
+2024-06-14 01:04:33,674 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,676 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:04:33,677 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:04:33,677 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:56:22,222 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:56:22,302 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:56:23,001 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 01:56:24,029 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update0 Unauthorized USER:Efronz
+2024-06-14 01:56:24,056 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:56:24,056 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:56:24,056 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 01:56:24,083 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:11 exists - Not found
+2024-06-14 01:56:24,083 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:12 exists - Not found
+2024-06-14 01:56:24,083 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 01:56:24,106 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,107 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,107 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,129 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,130 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,152 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,152 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,176 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,177 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,199 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,199 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,221 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,222 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,244 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,244 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 01:56:24,267 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:56:24,267 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:56:24,291 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:56:24,315 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 01:56:24,342 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:56:24,366 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update13 Unauthorized USER:ZzimelaAdmin
+2024-06-14 01:56:24,366 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 01:56:24,394 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:56:24,394 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 01:56:24,394 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:56:24,395 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 01:56:24,898 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2012/01/01 00:00:00 exists - Not found
+2024-06-14 01:56:24,919 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2013/01/01 00:00:00 exists - Not found
+2024-06-14 01:56:24,941 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2014/01/01 00:00:00 exists - Not found
+2024-06-14 01:56:24,963 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2015/01/01 00:00:00 exists - Not found
+2024-06-14 01:56:24,987 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2016/01/01 00:00:00 exists - Not found
+2024-06-14 01:56:25,461 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:56:25,492 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:56:25,528 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments1
+2024-06-14 01:56:25,566 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments2
+2024-06-14 01:56:25,592 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments3
+2024-06-14 01:56:25,614 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments4
+2024-06-14 01:56:25,636 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments5
+2024-06-14 01:56:25,658 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments6
+2024-06-14 01:56:25,680 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 01:56:25,701 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 01:56:25,723 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 01:56:25,748 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 01:56:25,772 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsPayPal
+2024-06-14 01:56:25,802 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsEFT
+2024-06-14 01:56:25,802 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsEFT No Payment with that Name exists, please try again
+2024-06-14 01:56:25,823 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCoupon
+2024-06-14 01:56:25,823 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCoupon No Payment with that Name exists, please try again
+2024-06-14 01:56:25,843 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsLayBy
+2024-06-14 01:56:25,843 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsLayBy No Payment with that Name exists, please try again
+2024-06-14 01:56:25,866 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCredit
+2024-06-14 01:56:25,866 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCredit No Payment with that Name exists, please try again
+2024-06-14 01:56:25,887 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCheque
+2024-06-14 01:56:25,887 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCheque No Payment with that Name exists, please try again
+2024-06-14 01:56:25,911 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments20
+2024-06-14 01:56:25,915 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments20 / No Payment with that ID exists, please try again
+2024-06-14 01:56:25,941 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:25,942 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:25,968 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 01:56:25,974 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 01:56:25,981 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 01:56:26,008 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 01:56:26,008 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments1 / Not authorised to update payments
+2024-06-14 01:56:26,009 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 01:56:26,009 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments2 / Not authorised to update payments
+2024-06-14 01:56:26,009 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 01:56:26,009 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments3 / Not authorised to update payments
+2024-06-14 01:56:26,033 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments11
+2024-06-14 01:56:26,034 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments11 /No Payment with that ID exists, please try again
+2024-06-14 01:56:26,034 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments12
+2024-06-14 01:56:26,034 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments12 /No Payment with that ID exists, please try again
+2024-06-14 01:56:26,034 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments13
+2024-06-14 01:56:26,034 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments13 /No Payment with that ID exists, please try again
+2024-06-14 01:56:26,060 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,070 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,071 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,093 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,094 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,094 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,094 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,094 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,094 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,094 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 01:56:26,117 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,118 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,118 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,118 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,118 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 01:56:26,118 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 01:56:26,139 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,140 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,140 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,140 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,140 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments12
+2024-06-14 01:56:26,140 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments12 / No Payment with that ID exists, please try again
+2024-06-14 01:56:26,161 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,161 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,161 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,162 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,162 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 01:56:26,182 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,183 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,183 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,183 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,183 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 01:56:26,205 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,205 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,205 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,206 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,206 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 01:56:26,227 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,228 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,228 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,228 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,228 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 01:56:26,251 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,251 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,251 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,251 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,251 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 01:56:26,252 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 01:56:26,274 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,274 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,299 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,299 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,323 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:56:26,324 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:56:26,346 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,347 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,347 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:56:26,347 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Payment ID not found, please try again
+2024-06-14 01:56:26,369 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,370 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,370 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,370 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 01:56:26,370 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:56:26,370 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:56:26,370 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 01:56:26,370 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 01:56:26,395 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/11/12 00:00:00
+2024-06-14 01:56:26,422 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/04 00:00:00
+2024-06-14 01:56:26,443 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/05 00:00:00
+2024-06-14 01:56:26,464 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/07/14 00:00:00
+2024-06-14 01:56:26,485 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/05/24 00:00:00
+2024-06-14 01:56:26,508 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/11 00:00:00
+2024-06-14 01:56:26,529 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/13 00:00:00
+2024-06-14 01:56:26,551 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/02/10 00:00:00
+2024-06-14 01:56:26,576 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/04/05 00:00:00
+2024-06-14 01:56:26,602 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/06/10 00:00:00
+2024-06-14 01:56:26,628 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00
+2024-06-14 01:56:26,628 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,651 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00
+2024-06-14 01:56:26,651 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,677 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00
+2024-06-14 01:56:26,677 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,698 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00
+2024-06-14 01:56:26,698 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,718 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00
+2024-06-14 01:56:26,718 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,739 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00
+2024-06-14 01:56:26,740 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,760 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00
+2024-06-14 01:56:26,760 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,781 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00
+2024-06-14 01:56:26,781 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,803 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00
+2024-06-14 01:56:26,803 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,824 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00
+2024-06-14 01:56:26,825 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,846 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00
+2024-06-14 01:56:26,846 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 01:56:26,871 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,893 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,917 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,938 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,958 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,980 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:26,980 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:56:27,001 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:27,001 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:56:27,021 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:27,022 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:56:27,044 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:27,044 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:56:27,065 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 01:56:27,065 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 01:56:27,088 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:56:27,113 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:56:27,136 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products1
+2024-06-14 01:56:27,180 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products2
+2024-06-14 01:56:27,203 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products3
+2024-06-14 01:56:27,224 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products4
+2024-06-14 01:56:27,245 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products5
+2024-06-14 01:56:27,266 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products6
+2024-06-14 01:56:27,288 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 01:56:27,309 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 01:56:27,331 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 01:56:27,356 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 01:56:27,380 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsLaptop
+2024-06-14 01:56:27,412 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartphone
+2024-06-14 01:56:27,434 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartwatch
+2024-06-14 01:56:27,455 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsHeadphones
+2024-06-14 01:56:27,477 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablet
+2024-06-14 01:56:27,499 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsWaptop
+2024-06-14 01:56:27,499 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsWaptop No Product with that Name exists, please try again
+2024-06-14 01:56:27,520 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartbone
+2024-06-14 01:56:27,520 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartbone No Product with that Name exists, please try again
+2024-06-14 01:56:27,541 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartlatch
+2024-06-14 01:56:27,541 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartlatch No Product with that Name exists, please try again
+2024-06-14 01:56:27,563 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsNosephones
+2024-06-14 01:56:27,563 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsNosephones No Product with that Name exists, please try again
+2024-06-14 01:56:27,585 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablett
+2024-06-14 01:56:27,585 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsTablett No Product with that Name exists, please try again
+2024-06-14 01:56:27,607 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products20
+2024-06-14 01:56:27,612 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/Products20 / No Product with that ID exists, please try again
+2024-06-14 01:56:27,634 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,635 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Cannot to add products an empty product
+2024-06-14 01:56:27,660 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 01:56:27,665 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 01:56:27,666 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 01:56:27,700 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 01:56:27,700 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products1 / Not authorised to update products as a customer
+2024-06-14 01:56:27,701 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 01:56:27,701 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products2 / Not authorised to update products as a customer
+2024-06-14 01:56:27,701 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 01:56:27,701 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products3 / Not authorised to update products as a customer
+2024-06-14 01:56:27,728 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products11
+2024-06-14 01:56:27,729 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products11 /No Product with that ID exists, please try again
+2024-06-14 01:56:27,729 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products13
+2024-06-14 01:56:27,729 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products13 /No Product with that ID exists, please try again
+2024-06-14 01:56:27,729 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products19
+2024-06-14 01:56:27,729 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products19 /No Product with that ID exists, please try again
+2024-06-14 01:56:27,752 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,758 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,759 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,782 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,783 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,784 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,785 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 01:56:27,806 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,807 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,808 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 01:56:27,831 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,831 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,832 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products12
+2024-06-14 01:56:27,853 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,854 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,855 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 01:56:27,876 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,877 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,878 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 01:56:27,899 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,901 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,902 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 01:56:27,924 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,925 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,926 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 01:56:27,948 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,949 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:27,950 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 01:56:27,973 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:28,006 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:28,007 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Not authorised to add products as a customer
+2024-06-14 01:56:28,028 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:28,031 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:56:28,031 [NonParallelWorker] WARN ProductsController - ProductsController -DELETE : api/Products / Not authorised to delete products
+2024-06-14 01:56:28,052 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:28,053 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:56:28,085 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:28,086 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:56:28,088 [NonParallelWorker] ERROR ProductsController - ProductsController -DELETE : api/Products / Error, Cannot delete Products that have been invoiced
+2024-06-14 01:56:28,109 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:28,110 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 01:56:28,111 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 01:56:28,112 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 02:01:41,973 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 02:01:42,047 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 02:01:42,735 [NonParallelWorker] INFO InvoicesController - CustomersPaymentsController - GET:  api/Invoices
+2024-06-14 02:01:43,778 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update0 Unauthorized USER:Efronz
+2024-06-14 02:01:43,805 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 02:01:43,806 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 02:01:43,806 [NonParallelWorker] WARN NotesController - Not authorized to updateJkhalidBad Request
+2024-06-14 02:01:43,833 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:11 exists - Not found
+2024-06-14 02:01:43,834 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:12 exists - Not found
+2024-06-14 02:01:43,834 [NonParallelWorker] ERROR NotesController - NotesController - PUT: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 02:01:43,857 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,858 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,858 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,880 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,880 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,903 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,903 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,926 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,927 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,948 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,949 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,970 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,970 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,992 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:43,992 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update11 Unauthorized USER:Efronz
+2024-06-14 02:01:44,015 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 02:01:44,015 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 02:01:44,039 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 02:01:44,062 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Efronz
+2024-06-14 02:01:44,088 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 02:01:44,111 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update13 Unauthorized USER:ZzimelaAdmin
+2024-06-14 02:01:44,111 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedID - No note with ID:13 exists - Not found
+2024-06-14 02:01:44,135 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 02:01:44,136 [NonParallelWorker] ERROR NotesController - NotesController - POST - Could not update1 Unauthorized USER:Jkhalid
+2024-06-14 02:01:44,136 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 02:01:44,136 [NonParallelWorker] WARN NotesController - Not authorized to deleteJkhalidBad Request
+2024-06-14 02:01:44,626 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2012/01/01 00:00:00 exists - Not found
+2024-06-14 02:01:44,647 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2013/01/01 00:00:00 exists - Not found
+2024-06-14 02:01:44,668 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2014/01/01 00:00:00 exists - Not found
+2024-06-14 02:01:44,692 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2015/01/01 00:00:00 exists - Not found
+2024-06-14 02:01:44,714 [NonParallelWorker] ERROR NotesController - NotesController - Get: SpecifiedDate - No note with2016/01/01 00:00:00 exists - Not found
+2024-06-14 02:01:45,029 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 02:01:45,057 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 02:01:45,081 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments1
+2024-06-14 02:01:45,130 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments2
+2024-06-14 02:01:45,199 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments3
+2024-06-14 02:01:45,224 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments4
+2024-06-14 02:01:45,251 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments5
+2024-06-14 02:01:45,277 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments6
+2024-06-14 02:01:45,299 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 02:01:45,322 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 02:01:45,344 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 02:01:45,371 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 02:01:45,394 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsPayPal
+2024-06-14 02:01:45,425 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsEFT
+2024-06-14 02:01:45,425 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsEFT No Payment with that Name exists, please try again
+2024-06-14 02:01:45,452 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCoupon
+2024-06-14 02:01:45,452 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCoupon No Payment with that Name exists, please try again
+2024-06-14 02:01:45,479 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsLayBy
+2024-06-14 02:01:45,479 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsLayBy No Payment with that Name exists, please try again
+2024-06-14 02:01:45,508 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCredit
+2024-06-14 02:01:45,508 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCredit No Payment with that Name exists, please try again
+2024-06-14 02:01:45,532 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/PaymentsCheque
+2024-06-14 02:01:45,532 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/PaymentsCheque No Payment with that Name exists, please try again
+2024-06-14 02:01:45,553 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments20
+2024-06-14 02:01:45,558 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments20 / No Payment with that ID exists, please try again
+2024-06-14 02:01:45,582 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,583 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,609 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 02:01:45,613 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 02:01:45,619 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 02:01:45,644 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments1
+2024-06-14 02:01:45,644 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments1 / Not authorised to update payments
+2024-06-14 02:01:45,644 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments2
+2024-06-14 02:01:45,644 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments2 / Not authorised to update payments
+2024-06-14 02:01:45,644 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments3
+2024-06-14 02:01:45,645 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments3 / Not authorised to update payments
+2024-06-14 02:01:45,667 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments11
+2024-06-14 02:01:45,668 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments11 /No Payment with that ID exists, please try again
+2024-06-14 02:01:45,668 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments12
+2024-06-14 02:01:45,668 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments12 /No Payment with that ID exists, please try again
+2024-06-14 02:01:45,668 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments13
+2024-06-14 02:01:45,668 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments13 /No Payment with that ID exists, please try again
+2024-06-14 02:01:45,695 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,703 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,704 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,728 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,728 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,728 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,728 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,728 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,729 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,729 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments
+2024-06-14 02:01:45,752 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,752 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,752 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,753 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,753 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 02:01:45,753 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 02:01:45,775 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,776 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,776 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,776 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,776 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments12
+2024-06-14 02:01:45,776 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments12 / No Payment with that ID exists, please try again
+2024-06-14 02:01:45,797 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,797 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,797 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,797 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,797 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments10
+2024-06-14 02:01:45,818 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,819 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,819 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,819 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,819 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments9
+2024-06-14 02:01:45,840 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,840 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,840 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,840 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,840 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments8
+2024-06-14 02:01:45,862 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,862 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,862 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,862 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,862 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments7
+2024-06-14 02:01:45,885 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,886 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,886 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,886 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,886 [NonParallelWorker] INFO PaymentsController - PaymentsController -Get : api/Payments11
+2024-06-14 02:01:45,886 [NonParallelWorker] WARN PaymentsController - PaymentsController -Get : api/Payments11 / No Payment with that ID exists, please try again
+2024-06-14 02:01:45,913 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,913 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,941 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,942 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,966 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 02:01:45,966 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 02:01:45,989 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:45,989 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:45,989 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 02:01:45,990 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Payment ID not found, please try again
+2024-06-14 02:01:46,012 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,012 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:46,012 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,013 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / Not authorised to add payments - Only Customers are allowed
+2024-06-14 02:01:46,013 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 02:01:46,013 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 02:01:46,013 [NonParallelWorker] INFO PaymentsController - PaymentsController -DELETE : api/Payments
+2024-06-14 02:01:46,013 [NonParallelWorker] WARN PaymentsController - PaymentsController -DELETE : api/Payments / Not authorised to delete payments
+2024-06-14 02:01:46,038 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/11/12 00:00:00
+2024-06-14 02:01:46,065 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/04 00:00:00
+2024-06-14 02:01:46,086 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/05 00:00:00
+2024-06-14 02:01:46,108 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/07/14 00:00:00
+2024-06-14 02:01:46,129 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/05/24 00:00:00
+2024-06-14 02:01:46,150 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/11 00:00:00
+2024-06-14 02:01:46,173 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/01/13 00:00:00
+2024-06-14 02:01:46,196 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/02/10 00:00:00
+2024-06-14 02:01:46,217 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/04/05 00:00:00
+2024-06-14 02:01:46,238 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2024/06/10 00:00:00
+2024-06-14 02:01:46,260 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00
+2024-06-14 02:01:46,260 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,281 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00
+2024-06-14 02:01:46,283 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2017/05/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,304 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00
+2024-06-14 02:01:46,304 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/11/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,325 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00
+2024-06-14 02:01:46,325 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,346 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00
+2024-06-14 02:01:46,347 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2018/03/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,368 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00
+2024-06-14 02:01:46,368 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/10/13 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,390 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00
+2024-06-14 02:01:46,390 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/02/02 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,412 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00
+2024-06-14 02:01:46,412 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2012/04/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,433 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00
+2024-06-14 02:01:46,433 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2022/12/12 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,455 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00
+2024-06-14 02:01:46,455 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2023/12/10 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,476 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00
+2024-06-14 02:01:46,476 [NonParallelWorker] INFO PaymentsController - PaymentsController -GET : api/Payments2021/03/22 00:00:00 / Error the format of the date is incorrect
+2024-06-14 02:01:46,498 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,520 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,542 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,563 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,584 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,606 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,606 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 02:01:46,630 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,630 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 02:01:46,652 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,652 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 02:01:46,678 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,678 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 02:01:46,700 [NonParallelWorker] INFO PaymentsController - PaymentsController -POST : api/Payments
+2024-06-14 02:01:46,700 [NonParallelWorker] WARN PaymentsController - PaymentsController -POST : api/Payments / No Payment with that date range exists, please try again
+2024-06-14 02:01:46,723 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 02:01:46,750 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 02:01:46,772 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products1
+2024-06-14 02:01:46,818 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products2
+2024-06-14 02:01:46,839 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products3
+2024-06-14 02:01:46,860 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products4
+2024-06-14 02:01:46,881 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products5
+2024-06-14 02:01:46,902 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products6
+2024-06-14 02:01:46,924 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 02:01:46,946 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 02:01:46,967 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 02:01:46,991 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 02:01:47,015 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsLaptop
+2024-06-14 02:01:47,048 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartphone
+2024-06-14 02:01:47,070 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartwatch
+2024-06-14 02:01:47,092 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsHeadphones
+2024-06-14 02:01:47,115 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablet
+2024-06-14 02:01:47,137 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsWaptop
+2024-06-14 02:01:47,137 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsWaptop No Product with that Name exists, please try again
+2024-06-14 02:01:47,158 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartbone
+2024-06-14 02:01:47,158 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartbone No Product with that Name exists, please try again
+2024-06-14 02:01:47,179 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsSmartlatch
+2024-06-14 02:01:47,179 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsSmartlatch No Product with that Name exists, please try again
+2024-06-14 02:01:47,200 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsNosephones
+2024-06-14 02:01:47,200 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsNosephones No Product with that Name exists, please try again
+2024-06-14 02:01:47,220 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/ProductsTablett
+2024-06-14 02:01:47,220 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/ProductsTablett No Product with that Name exists, please try again
+2024-06-14 02:01:47,243 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products20
+2024-06-14 02:01:47,247 [NonParallelWorker] WARN ProductsController - ProductsController -Get : api/Products20 / No Product with that ID exists, please try again
+2024-06-14 02:01:47,269 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,270 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Cannot to add products an empty product
+2024-06-14 02:01:47,294 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 02:01:47,299 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 02:01:47,300 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 02:01:47,333 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products1
+2024-06-14 02:01:47,333 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products1 / Not authorised to update products as a customer
+2024-06-14 02:01:47,333 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products2
+2024-06-14 02:01:47,333 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products2 / Not authorised to update products as a customer
+2024-06-14 02:01:47,333 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products3
+2024-06-14 02:01:47,333 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products3 / Not authorised to update products as a customer
+2024-06-14 02:01:47,359 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products11
+2024-06-14 02:01:47,360 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products11 /No Product with that ID exists, please try again
+2024-06-14 02:01:47,360 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products13
+2024-06-14 02:01:47,360 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products13 /No Product with that ID exists, please try again
+2024-06-14 02:01:47,360 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products19
+2024-06-14 02:01:47,360 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products19 /No Product with that ID exists, please try again
+2024-06-14 02:01:47,382 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,386 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,387 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,410 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,411 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,412 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,413 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products
+2024-06-14 02:01:47,436 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,437 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,437 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 02:01:47,459 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,461 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,462 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products12
+2024-06-14 02:01:47,483 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,484 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,485 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products10
+2024-06-14 02:01:47,506 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,507 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,508 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products9
+2024-06-14 02:01:47,530 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,530 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,532 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products8
+2024-06-14 02:01:47,555 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,556 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,556 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products7
+2024-06-14 02:01:47,582 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,583 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,583 [NonParallelWorker] INFO ProductsController - ProductsController -Get : api/Products11
+2024-06-14 02:01:47,607 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,640 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,641 [NonParallelWorker] WARN ProductsController - ProductsController -POST : api/Products / Not authorised to add products as a customer
+2024-06-14 02:01:47,664 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,666 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 02:01:47,666 [NonParallelWorker] WARN ProductsController - ProductsController -DELETE : api/Products / Not authorised to delete products
+2024-06-14 02:01:47,687 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,688 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 02:01:47,720 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,721 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 02:01:47,722 [NonParallelWorker] ERROR ProductsController - ProductsController -DELETE : api/Products / Error, Cannot delete Products that have been invoiced
+2024-06-14 02:01:47,744 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,745 [NonParallelWorker] INFO ProductsController - ProductsController -POST : api/Products
+2024-06-14 02:01:47,746 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
+2024-06-14 02:01:47,747 [NonParallelWorker] INFO ProductsController - ProductsController -DELETE : api/Products
