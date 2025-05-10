@@ -15,6 +15,59 @@ Refer to the [Project Documentation](/SISONKE_Invoicing_Group_Project.xlsx) for 
 ## Tools
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-2022%20or%20later-green) ![Static Badge](https://img.shields.io/badge/.Net%20Framework-6.0-blue) ![Static Badge](https://img.shields.io/badge/MSSQL-v18%20or%20later-red)
 
+## Branching Strategy
+
+A structured branching strategy must be followed to keep the codebase organized:
+
+- **main**: Stable, production-ready code.
+- **dev**: Ongoing development. Feature branches are merged here first
+
+- **feature/**: New features.
+  - Example: `feature/add-user-authentication`
+- **bugfix/**: Bug fixes.
+  - Example: `bugfix/fix-app-response`
+- **chore/**: Maintenance tasks, documentation,or configurations.
+  - Example: `chore/add-read-me`
+- **Hotfix branches**: Urgent fixes to `main`.
+   - Example: `hotfix/critical-bug-in-production`
+
+### Notes:
+- Use **kebab-case** (lowercase with hyphens) for branch names (e.g., `feature/dotnet-upload-file`).
+- Branch names should be **descriptive** but concise.
+- Avoid spaces, uppercase letters, or special characters.
+
+## Development Workflow
+
+1. **Create a New Branch**:
+   ```bash
+   git checkout -b feature/add-user-authentication
+   ```
+
+2. **Make Changes**:
+   ```bash
+   git add .
+   git commit -m "Implement user authentication feature"
+   ```
+
+3. **Push Your Branch**:
+   ```bash
+   git push origin feature/add-user-authentication
+   ```
+
+4. **Sync with the `dev` Branch**:
+   Before creating a merge request, ensure your branch is up-to-date with the latest changes from the `dev` branch:
+   ```bash
+   git pull origin dev
+   ```
+   If there are any merge conflicts, resolve them in your branch locally. Once resolved, commit the changes and push them back to your branch:
+   
+   ```bash
+   git push origin feature/add-user-authentication
+   ```
+
+5. **Create a Merge Request**:
+   - Open a pull request on GitHub targeting `dev` for code review.
+
 ## Installation
 The ASP.NET MVC Web App project depends on the Entity Framework (EF) Code 1st and Rest API projects to run effectively. Hence, the EF Code 1st project should be run first, and then add migrations and then update the database. This will create the database for the entities involved in the system. After the initial process the Rest API Project needs to be opened and run the migration commands in package manager console making sure to state the context to add migration to and making sure to database is updated with the migrations so that the identity database tables are created in order to enable registration and login functionality and to be able to access critical data. The ASP.NET MVC front end needs to have api url so that it can access its endpoints. Make sure to keep the Rest API running and open the Angular Web app now to use it.
 
